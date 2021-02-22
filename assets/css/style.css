@@ -388,14 +388,14 @@ h6,
 
 #hero {
     width: 100%;
-    height: calc(100vh - 114px);
+    height: calc(100vh - 50px);
     padding: 0;
     overflow: hidden;
 }
 
 #hero .carousel-item {
     width: 100%;
-    height: calc(100vh - 114px);
+    height: calc(100vh - 50px);
     background-size: cover;
     background-position: top right;
     background-repeat: no-repeat;
@@ -404,7 +404,7 @@ h6,
 
 #hero .carousel-item::before {
     content: "";
-    background-color: rgba(13, 30, 45, 0.6);
+    background-color: rgba(13, 30, 45, 0.3);
     position: absolute;
     height: 100%;
     width: 100%;
@@ -434,7 +434,7 @@ h6,
 @media (max-width: 992px) {
     #hero,
     #hero .carousel-item {
-        height: calc(100vh - 70px);
+        height: calc(100vh - 50px);
     }
     #hero .carousel-content.container {
         padding: 0 50px;
@@ -1404,21 +1404,21 @@ section {
 }
 
 #footer {
-    background: #587187;
+    background: rgb(37, 142, 206);
     padding: 0 0 30px 0;
     color: #fff;
     font-size: 14px;
 }
 
 #footer .footer-top {
-    background: #5c768d;
-    border-top: 1px solid #768fa6;
-    border-bottom: 1px solid #67839c;
-    padding: 60px 0 30px 0;
+    background: rgb(37, 142, 206);
+    /*border-top: 1px solid #768fa6;
+    border-bottom: 1px solid #67839c;*/
+    padding: 40px 0 0 0;
 }
 
 #footer .footer-top .footer-info {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 #footer .footer-top .footer-info h3 {
@@ -1539,7 +1539,7 @@ section {
 
 #footer .copyright {
     text-align: center;
-    padding-top: 30px;
+    padding-top: 10px;
 }
 
 #footer .credits {
@@ -1579,17 +1579,17 @@ section {
 
 #hero {
     width: 100%;
-    height: calc(100vh - 300px);
+    height: calc(100vh - 150px);
     padding: 0;
     overflow: hidden;
 }
 
 #carousel {
-    height: calc(100vh - 300px);
+    height: calc(100vh - 150px);
 }
 
 .heroCarousel {
-    height: calc(100vh - 300px);
+    height: calc(100vh - 150px);
 }
 
 .linea {
@@ -1694,10 +1694,10 @@ section {
 }
 
 .features .nav-link {
-    border: 1px solid #d4d6df;
+    border: 1px solid #0b34e9;
     padding: 15px;
     transition: 0.3s;
-    color: #2a2c39;
+    color: #4356d4;
     border-radius: 0;
     display: flex;
     align-items: center;
@@ -1716,13 +1716,13 @@ section {
 }
 
 .features .nav-link:hover {
-    color: #ef6603;
+    color: #041d6d;
 }
 
 .features .nav-link.active {
-    background: #ef6603;
+    background: rgb(223, 223, 222);
     color: #fff;
-    border-color: #ef6603;
+    border-color: rgb(37, 142, 206);
 }
 
 @media (max-width: 768px) {
@@ -1795,4 +1795,16 @@ section {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.logofooter {
+    padding: 0;
+    margin: 0;
+    max-height: 140px;
+}
+
+.social {
+    height: 140px;
+    max-height: 140px;
+    align-content: center;
 }
