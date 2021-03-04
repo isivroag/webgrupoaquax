@@ -1808,3 +1808,39 @@ section {
     max-height: 140px;
     align-content: center;
 }
+
+.tituloplan {
+    background-color: rgb(37, 142, 206);
+    padding: 30px 0px;
+}
+
+.nombretitulo{
+    font-size: 75px;
+    color: #fff;
+
+}
+.subtitulo{
+    color: #fff;
+
+}
+
+.imagenplan{
+    max-height: 220px;
+}
+.detalleplan{
+    max-height: 420px;
+
+}
+.detlletexto{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.plan{
+    background-color: rgb(145, 198, 230);
+}
+
+.plan img{
+
+    max-height: 500px;
+}
