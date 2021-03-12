@@ -141,9 +141,9 @@
     <section>
         <div class="container">
             <div class="row d-flex justify-content-between">
-                <div class="detlletexto col-lg-4 offset-1 my-auto">
+                <div class="detlletexto col-lg-6 my-auto">
                     <p>Niños de 3 años y medio a 6 años. </p>
-                    <p> La efectividad de nuestra enseñanza se da en la progresión ordenada y cuidadosa del aprendizaje. Los alumnos aprenden jugando, imaginando, explorando y disfrutando de su relación con el Agua. Los niveles de aprendizaje se van adaptando a las habilidades.
+                    <p> La efectividad de nuestra enseñanza se da en la progresión ordenada y cuidadosa del aprendizaje. <br><br> Los alumnos aprenden jugando, imaginando, explorando y disfrutando de su relación con el Agua. <br><br>Los niveles de aprendizaje se van adaptando a las habilidades.
                     </p>
                 </div>
                 <div class="col-lg-5">

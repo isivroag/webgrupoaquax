@@ -141,9 +141,9 @@
     <section>
         <div class="container">
             <div class="row d-flex justify-content-between">
-                <div class="detlletexto col-lg-4 offset-1 my-auto">
+                <div class="detlletexto col-lg-6 my-auto">
                     <p>De 15 a 59 años.  </p>
-                    <p> El espacio y el método de enseñanza están diseñados para que el alumno transite cómoda y placenteramente, desde aquel que le tiene miedo al Agua, hasta el que logra dominar los 4 estilos de natación. La progresión del aprendizaje toma en cuenta los elementos psicomotores de la evolución humana. <br>
+                    <p> El espacio y el método de enseñanza están diseñados para que el alumno transite cómoda y placenteramente, desde aquel que le tiene miedo al agua, hasta el que logra dominar los 4 estilos de natación. <br> La progresión del aprendizaje toma en cuenta los elementos psicomotores de la evolución humana. <br>
                         Cada nivel cuenta con objetivos concretos de aprendizaje, centrados en el alumno para garantizar el éxito en cada sesión y conquistar el dominio y la interacción cómoda y eficiente con el agua.
 
                     </p>

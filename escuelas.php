@@ -140,9 +140,9 @@
     <section>
         <div class="container">
             <div class="row d-flex justify-content-between">
-                <div class="detlletexto col-lg-4 offset-1 my-auto">
+                <div class="detlletexto col-lg-6 my-auto">
 
-                    <p> Adaptamos nuestros programas y horarios a las necesidades de la escuela para garantizar una mejor atención. Ofrecemos clases a las escuelas una vez por semana en horario matutino de lunes a viernes.<br>
+                    <p> Adaptamos nuestros programas y horarios a las necesidades de la escuela para garantizar una mejor atención. <br> <br> Ofrecemos clases a las escuelas una vez por semana en horario matutino de lunes a viernes.<br><br> 
                         Firmamos un convenio de colaboración con escuela en donde se establecen las responsabilidades de las instituciones.
 
 

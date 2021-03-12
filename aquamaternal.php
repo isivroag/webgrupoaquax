@@ -141,9 +141,9 @@
   <section>
     <div class="container">
       <div class="row d-flex justify-content-between">
-        <div class="detlletexto col-lg-4 offset-1 my-auto">
+        <div class="detlletexto col-lg-6 my-auto">
           <p>Bebés de 3 meses a 1 año. </p>
-           <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje. Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo. <br>
+           <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje. <br> Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo. <br><br>
                No es necesario que los padres sepan nadar. Contamos con una alberca pedagógicamente diseñada con diferentes plataformas de profundidad para su seguridad y desplazamiento. Es importante que los padres transmitan el gusto por el agua y bienestar total.
 
           </p>

@@ -141,9 +141,9 @@
     <section>
         <div class="container">
             <div class="row d-flex justify-content-between">
-                <div class="detlletexto col-lg-4 offset-1 my-auto">
+                <div class="detlletexto col-lg-6 my-auto">
                     
-                    <p> Programa en el cual una persona con una lesión o discapacidad física encuentre en el ambiente acuático el medio para que su calidad de vida mejore en todos los ámbitos. Clases con instructor individual y con nuestras instalaciones adecuadas para poder accesar a la alberca en silla de ruedas.
+                    <p> Programa en el cual una persona con una lesión o discapacidad física encuentre en el ambiente acuático el medio para que su calidad de vida mejore en todos los ámbitos. <br> <br> Clases con instructor individual y con nuestras instalaciones adecuadas para poder accesar a la alberca en silla de ruedas.
                     </p>
                 </div>
                 <div class="col-lg-5">

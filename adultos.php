@@ -141,9 +141,9 @@
     <section>
         <div class="container">
             <div class="row d-flex justify-content-between">
-                <div class="detlletexto col-lg-4 offset-1 my-auto">
+                <div class="detlletexto col-lg-6 my-auto">
                     <p>De 60 años en adelante. 45 minutos de clase. </p>
-                    <p> El participante realizará ejercicios para vigorizar su cuerpo y mejorar su calidad de vida. Ejercicios para movilidad de articulaciones, tonificación muscular, reeducar postura y de integración social. Buscando desarrollar elementos que permitan adaptarse y disfrutar con seguridad el medio acuático, conocer y perfeccionar las técnicas de nado mediante un programa de acondicionamiento.
+                    <p> El participante realizará ejercicios para vigorizar su cuerpo y mejorar su calidad de vida. <br> <br> Ejercicios para movilidad de articulaciones, tonificación muscular, reeducar postura y de integración social. Buscando desarrollar elementos que permitan adaptarse y disfrutar con seguridad el medio acuático, conocer y perfeccionar las técnicas de nado mediante un programa de acondicionamiento.
                     </p>
                 </div>
                 <div class="col-lg-5">

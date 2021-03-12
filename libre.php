@@ -141,7 +141,7 @@
     <section>
         <div class="container">
             <div class="row d-flex justify-content-between">
-                <div class="detlletexto col-lg-4 offset-1 my-auto">
+                <div class="detlletexto col-lg-6 my-auto">
                     
                     <p> Personas con interés de ejercitarse por su cuenta en el agua.</p>
                 </div>
