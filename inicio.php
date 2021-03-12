@@ -17,6 +17,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i,900" rel="stylesheet">
 
   <link href="//db.onlinewebfonts.com/c/67137b5f6928edc941186baaab5a664b?family=Lemon/Milk" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -48,7 +49,7 @@
       <div class="row justify-content-end">
         <div class="col-md-6 text-right">
           NUESTRAS MEDIDAS SANITARIAS
-          <a href="index.html"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
+          <a href="inicio.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
 
         </div>
         <div class="col-md-3">
@@ -70,13 +71,29 @@
       <div class="logo float-left">
         <!--<h1 class="text-light"><a href="index.html"><span>Mamba</span></a></h1>-->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.html"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
+        <a href="inicio.php"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
       </div>
 
-      <nav class="nav-menu float-right d-none d-lg-block">
+      <nav class="nav-menu float-right d-none d-lg-block negritas">
         <ul>
-          <li class="active"><a href="index.html">Inicio</a></li>
-          <li><a href="#services">Servicios</a></li>
+          <li class="active"><a href="inicio.php">Inicio</a></li>
+          
+
+          <li class="drop-down"><a href="">Servicios</a>
+            <ul>
+              <li><a href="aquamaternal.php">Aquamaternal</a></li>
+              <li><a href="bebes.php">Bebes</a></li>
+              <li><a href="preescolares.php">Preescolares</a></li>
+              <li><a href="escolares.php">Escolares</a></li>
+              <li><a href="jovenes.php">Jóvenes y Adultos</a></li>
+              <li><a href="adultos.php">Adultos Mayores</a></li>
+              <li><a href="terapeutico.php">Terapéutica</a></li>
+              <li><a href="escuelas.php">Escuelas</a></li>
+              <li><a href="libre.php">Natación Libre</a></li>
+              <li><a href="gymx.php">GYMX</a></li>
+            </ul>
+          </li>
+
           <li><a href="#portfolio">Sucursales</a></li>
           <li><a href="#about">Nosotros</a></li>
           <li><a href="#team">Reglamento</a></li>
@@ -276,25 +293,25 @@
           <li class="nav-item col-3" data-aos="zoom-in">
             <a class="nav-link active show" data-toggle="tab" href="#tab-1">
               <i class="ri-gps-line"></i>
-              <h4 class="d-none d-lg-block">RESEÑA 1</h4>
+              <h4 class="d-none d-lg-block text-center">¿Qué me ofrece <br>GRUPO AQUAX?</h4>
             </a>
           </li>
           <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="100">
             <a class="nav-link" data-toggle="tab" href="#tab-2">
               <i class="ri-body-scan-line"></i>
-              <h4 class="d-none d-lg-block">Reseña 2</h4>
+              <h4 class="d-none d-lg-block text-center">¿Por qué nadar en <br>GRUPO AQUAX?</h4>
             </a>
           </li>
           <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="200">
             <a class="nav-link" data-toggle="tab" href="#tab-3">
               <i class="ri-sun-line"></i>
-              <h4 class="d-none d-lg-block">REseña 3</h4>
+              <h4 class="d-none d-lg-block text-center">¿Qué clase debo escoger?</h4>
             </a>
           </li>
           <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="300">
             <a class="nav-link" data-toggle="tab" href="#tab-4">
               <i class="ri-store-line"></i>
-              <h4 class="d-none d-lg-block">Reseña 4</h4>
+              <h4 class="d-none d-lg-block text-center">Garantía <br>GRUPO AQUAX</h4>
             </a>
           </li>
         </ul>
@@ -304,18 +321,11 @@
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <H3>¿QUE ME OFRECE AQUAX?</H3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde,
-                  pariatur recusandae fugit modi animi nesciunt ea similique culpa necessitatibus
-                  cum atque provident, doloribus magnam! Earum placeat officiis cum ratione illum.
+
+                <p>GRUPO AQUAX te ofrece el sincero compromiso de esforzarnos por brindarte la calidad de servicio que tú mereces y de esmerarnos por mejorar dicha calidad día con día para satisfacer todos los requerimientos de nuestros clientes.
                 </p>
+               </div>
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde,
-                  pariatur recusandae fugit modi animi nesciunt ea similique culpa necessitatibus
-                  cum atque provident, doloribus magnam! Earum placeat officiis cum ratione illum.
-                </p>
-
-
-              </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/img1.png" alt="" class="img-fluid img-recurso">
               </div>
@@ -324,12 +334,9 @@
           <div class="tab-pane" id="tab-2">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>¿POR QUE NADADAR EN AQUAX?</h3>
+                <h3>¿POR QUE NADAR EN AQUAX?</h3>
                 <p>
-                  A través de una infraestructura y servicio de alta calidad con personal capacitado y profesional, ser
-                  un importante apoyo para lograr una mejor sociedad satisfaciendo las necesidades en el aprendizaje y
-                  práctica de la natación, actividades holísticas y acondicionamiento físico, e impulsar y desarrollar
-                  hábitos deportivos y de competencia para que niños, jóvenes y adultos mejoren su calidad de vida.
+                Porque aquí tú eres lo más importante y porque contamos con los más calificados instructores y entrenadores así como con las mejores instalaciones para la actividad acuática deportiva, educativa y recreativa en la región de Xalapa.
                 </p>
                
               </div>
@@ -341,16 +348,12 @@
           <div class="tab-pane" id="tab-3">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>¿QUE CLASE ES PARA MI?</h3>
+                <h3>¿QUE CLASE DEBO ESCOGER?</h3>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                  voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                  sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
+                Contamos con diversidad de programas para adaptarnos a la diversidad niveles, objetivos y disponibilidad de tiempo de todos nuestros clientes. Aquí podrás encontrar un programa específico para ti: desde seguridad básica en el agua hasta niveles de competencia de alto rendimiento.
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                  <!--<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
                   <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
                   </li>
                   <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a.
@@ -360,7 +363,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                   dolore
                   magna aliqua.
-                </p>
+                </p>-->
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/img3.png" alt="" class="img-fluid">
@@ -372,13 +375,9 @@
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>GARANTIA AQUAX</h3>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                  voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                  sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
+                28 años de experiencia con los mejores resultados nos respaldan.
                 </p>
-                <p class="font-italic">
+                <!--<p class="font-italic">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                   dolore
                   magna aliqua.
@@ -390,7 +389,7 @@
                   <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
                     aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla
                     pariatur.</li>
-                </ul>
+                </ul>-->
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/img4.png" alt="" class="img-fluid">

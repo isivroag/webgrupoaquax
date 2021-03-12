@@ -15,6 +15,8 @@
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i,900" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <link href="//db.onlinewebfonts.com/c/67137b5f6928edc941186baaab5a664b?family=Lemon/Milk" rel="stylesheet" type="text/css" />
 
@@ -48,7 +50,7 @@
       <div class="row justify-content-end">
         <div class="col-md-6 text-right">
           NUESTRAS MEDIDAS SANITARIAS
-          <a href="index.html"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
+          <a href="inicio.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
 
         </div>
         <div class="col-md-3">
@@ -73,14 +75,27 @@
         <a href="index.html"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
       </div>
 
-      <nav class="nav-menu float-right d-none d-lg-block">
+      <nav class="nav-menu float-right d-none d-lg-block negritas">
         <ul>
-          <li class="active"><a href="index.html">Inicio</a></li>
-          <li><a href="#services">Servicios</a></li>
+          <li class="active "><a href="inicio.php">Inicio</a></li>
+          <li class="drop-down"><a href="">Servicios</a>
+            <ul>
+              <li><a href="aquamaternal.php">Aquamaternal</a></li>
+              <li><a href="bebes.php">Bebés</a></li>
+              <li><a href="preescolares.php">Preescolares</a></li>
+              <li><a href="escolares.php">Escolares</a></li>
+              <li><a href="jovenes.php">Jóvenes y Adultos</a></li>
+              <li><a href="adultos.php">Adultos Mayores</a></li>
+              <li><a href="terapeutico.php">Terapéutica</a></li>
+              <li><a href="escuelas.php">Escuelas</a></li>
+              <li><a href="libre.php">Natación Libre</a></li>
+              <li><a href="gymx.php">GYMX</a></li>
+            </ul>
+          </li>
           <li><a href="#portfolio">Sucursales</a></li>
           <li><a href="#about">Nosotros</a></li>
           <li><a href="#team">Reglamento</a></li>
-          
+
           <!--<li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -104,54 +119,72 @@
 
     </div>
   </header><!-- End Header -->
-<section id="titulo" class="tituloplan">
+  <section id="titulo" class="tituloplan">
     <div class="container">
-    <div class="row d-flex justify-content-between ">
+      <div class="row d-flex justify-content-between ">
         <div class="col-md-7 my-auto">
-            <div class="contenedortitulo">
+          <div class="contenedortitulo">
             <h2 class="nombretitulo">AQUAMATERNAL</h2>
             <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
-            </div>
-          
+          </div>
+
         </div>
         <div class="col-md-3 ">
-            <img class="align-top imagenplan" src="assets/img/30min.png" alt="">
+          <img class="align-top imagenplan" src="assets/img/30min.png" alt="">
         </div>
+      </div>
     </div>
-    </div>
-    
-</section>
+
+  </section>
 
 
-<section>
-<div class="container">
-    <div class="row d-flex justify-content-between">
+  <section>
+    <div class="container">
+      <div class="row d-flex justify-content-between">
         <div class="detlletexto col-lg-4 offset-1 my-auto">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, dolore. Odit atque nulla 
-                officia molestias voluptatibus est, laboriosam distinctio ipsa repellat quam dignissimos harum sed asperiores animi iure facere laudantium?
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, dolore. Odit atque nulla 
-                officia molestias voluptatibus est, laboriosam distinctio ipsa repellat quam dignissimos harum sed asperiores animi iure facere laudantium?
-            </p>
+          <p>Bebés de 3 meses a 1 año. </p>
+           <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje. Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo. <br>
+               No es necesario que los padres sepan nadar. Contamos con una alberca pedagógicamente diseñada con diferentes plataformas de profundidad para su seguridad y desplazamiento. Es importante que los padres transmitan el gusto por el agua y bienestar total.
+
+          </p>
         </div>
         <div class="col-lg-5">
-            <img class="detalleplan" src="assets/img/aquamat.png" alt="">
+          <img class="detalleplan" src="assets/img/aquamat.png" alt="">
         </div>
+      </div>
     </div>
-</div>
-</section  >
+  </section>
 
-<section class="plan">
+  <section class="plan">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <img src="assets/img/planaaquamat.png" alt="">
-            </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <img src="assets/img/planaaquamat.png" alt="">
         </div>
+      </div>
     </div>
-</section>
+  </section>
 
-<section>
-</section>
+  <section class="clasedeprueba ">
+
+    <div class="container">
+      <div class="row d-flex justify-content-between">
+        <div class="col-lg-5 justify-content-center">
+          <div class="clase-text">
+            <h3 class="espaciado" style="color: #fff;">RESERVA TU</h3>
+            <h1 style="font-size:50px;color: #fff;">CLASE DE PRUEBA <br> GRATIS</h1>
+
+            <button class="boton espaciado">INICIA AHORA</button>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+
+  </section>
+
+
 
 
 
@@ -164,37 +197,37 @@
         <div class="row">
 
           <div class="col-lg-2 col-md-6 footer-info ">
-            <img class="logofooter"src="assets/img/logow.png" alt="">
-            
+            <img class="logofooter" src="assets/img/logow.png" alt="">
+
           </div>
           <div class="col-lg-3 ">
-          <div class="social d-flex align-self-center align-items-center ">
+            <div class="social d-flex align-self-center align-items-center ">
 
-          <a href="#" class="icono "><img class="iredes" src="assets/img/facebookw.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/instagramw.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/correow.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/whatsappw.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/telefonow.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/facebookw.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/instagramw.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/correow.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/whatsappw.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/telefonow.png"></img></a>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            
+
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">SERVICIOS</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">SUCURSALES</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">NOSOTROS</a></li>
-            
+
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-           
+
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#"> COVID-19 </a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">REGLAMENTO</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">CONTACTO</a></li>
-            
+
             </ul>
           </div>
 
@@ -203,14 +236,14 @@
       </div>
     </div>
 
-  <div class="container">
-    <div class="copyright">
-      &copy; Copyright <strong><span>TECNIEM</span></strong>. Todos los derechos reservados.
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>TECNIEM</span></strong>. Todos los derechos reservados.
+      </div>
+      <div class="credits">
+
+      </div>
     </div>
-    <div class="credits">
-     
-    </div>
-  </div>
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>

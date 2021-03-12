@@ -10,17 +10,9 @@
 # General
 --------------------------------------------------------------*/
 
-@import url(//db.onlinewebfonts.com/c/67137b5f6928edc941186baaab5a664b?family=Lemon/Milk);
-@font-face {
-    font-family: "Lemon/Milk";
-    src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot");
-    src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff") format("woff"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.svg#Lemon/Milk") format("svg");
-    font-family: "Futura/BK/BT";
-    src: url("/assets/font/FuturaBKBTBook.ttf")
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 body {
-    font-family: "Futura BK BT";
+    font-family: 'Poppins', sans-serif;
     color: #444;
 }
 
@@ -40,8 +32,13 @@ h4,
 h5,
 h6,
 .font-primary {
-    font-family: "Lemon/Milk";
+    font-family: 'Poppins', sans-serif;
     color: rgb(50, 85, 144);
+}
+
+.negritas {
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 
@@ -188,7 +185,7 @@ h6,
     padding: 12px 15px;
     transition: 0.3s;
     font-size: 14px;
-    font-family: "Lemon/Milk";
+    font-family: 'Poppins', sans-serif;
 }
 
 .nav-menu a:hover,
@@ -500,7 +497,7 @@ h6,
 }
 
 #hero .btn-get-started {
-    font-family: "Raleway", sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
     font-size: 14px;
     letter-spacing: 1px;
@@ -873,7 +870,7 @@ section {
 .counts .count-box p {
     padding: 0;
     margin: 0;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 14px;
 }
 
@@ -1433,7 +1430,7 @@ section {
     font-size: 14px;
     line-height: 24px;
     margin-bottom: 0;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #fff;
 }
 
@@ -1560,7 +1557,7 @@ section {
     margin-right: 0px;
     font-size: 18px;
     color: #fff;
-    font-family: "Lemon/Milk";
+    font-family: 'Poppins', sans-serif;
 }
 
 .covid {
@@ -1678,7 +1675,7 @@ section {
 }
 
 .certificaciones {
-    background-color: rgb(146, 198, 230);
+    background-color: rgb(37, 142, 206);
     padding: 15px 0;
 }
 
@@ -1814,33 +1811,64 @@ section {
     padding: 30px 0px;
 }
 
-.nombretitulo{
+.nombretitulo {
     font-size: 75px;
     color: #fff;
-
 }
-.subtitulo{
+
+.subtitulo {
     color: #fff;
-
 }
 
-.imagenplan{
+.imagenplan {
     max-height: 220px;
 }
-.detalleplan{
-    max-height: 420px;
 
+.detalleplan {
+    max-height: 420px;
 }
-.detlletexto{
+
+.detlletexto {
     text-align: justify;
     font-size: 20px;
 }
 
-.plan{
+.plan {
     background-color: rgb(145, 198, 230);
 }
 
-.plan img{
-
+.plan img {
     max-height: 500px;
+}
+
+.clasedeprueba {
+    background-image: url("../img/footer.jpg");
+    background-color: #cccccc;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.clase-text {
+    text-align: center;
+    color: white !important;
+}
+
+.boton {
+    align-items: center;
+    color: #103453;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #fff;
+    display: block;
+    text-align: center;
+    border-radius: 25px;
+    padding: 3px 25px;
+    margin: auto;
+    border-color: rgba(255, 255, 25, 0);
+}
+
+.espaciado {
+    letter-spacing: 0.2em;
 }
