@@ -32,6 +32,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/estiloc.css" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: Mamba - v2.5.1
@@ -77,7 +78,7 @@
       <nav class="nav-menu float-right d-none d-lg-block negritas">
         <ul>
           <li class="active"><a href="inicio.php">Inicio</a></li>
-          
+
 
           <li class="drop-down"><a href="">Servicios</a>
             <ul>
@@ -97,7 +98,7 @@
           <li><a href="#portfolio">Sucursales</a></li>
           <li><a href="#about">Nosotros</a></li>
           <li><a href="#team">Reglamento</a></li>
-          
+
           <!--<li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -164,8 +165,8 @@
             </div>
           </div>
 
-           <!-- Slide 3 -->
-           <div class="carousel-item" style="background-image: url('assets/img/slide/slide-7.jpg');">
+          <!-- Slide 3 -->
+          <div class="carousel-item" style="background-image: url('assets/img/slide/slide-7.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown"></h2>
@@ -175,8 +176,8 @@
             </div>
           </div>
 
-           <!-- Slide 3 -->
-           <div class="carousel-item" style="background-image: url('assets/img/slide/slide-8.jpg');">
+          <!-- Slide 3 -->
+          <div class="carousel-item" style="background-image: url('assets/img/slide/slide-8.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown"></h2>
@@ -271,7 +272,7 @@
         </div>
 
       </div>-->
-    </section><!-- End About Us Section -->
+    <!-- End About Us Section -->
     <section class="certificaciones">
       <div class="container">
         <div class="mx-auto d-flex justify-content-center">
@@ -285,7 +286,7 @@
       </div>
     </section>
 
-
+    <!--
     <section id="features" class="features">
       <div class="container">
 
@@ -324,7 +325,7 @@
 
                 <p>GRUPO AQUAX te ofrece el sincero compromiso de esforzarnos por brindarte la calidad de servicio que tú mereces y de esmerarnos por mejorar dicha calidad día con día para satisfacer todos los requerimientos de nuestros clientes.
                 </p>
-               </div>
+              </div>
 
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/img1.png" alt="" class="img-fluid img-recurso">
@@ -336,9 +337,9 @@
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>¿POR QUE NADAR EN AQUAX?</h3>
                 <p>
-                Porque aquí tú eres lo más importante y porque contamos con los más calificados instructores y entrenadores así como con las mejores instalaciones para la actividad acuática deportiva, educativa y recreativa en la región de Xalapa.
+                  Porque aquí tú eres lo más importante y porque contamos con los más calificados instructores y entrenadores así como con las mejores instalaciones para la actividad acuática deportiva, educativa y recreativa en la región de Xalapa.
                 </p>
-               
+
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/img2.png" alt="" class="img-fluid">
@@ -350,20 +351,10 @@
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>¿QUE CLASE DEBO ESCOGER?</h3>
                 <p>
-                Contamos con diversidad de programas para adaptarnos a la diversidad niveles, objetivos y disponibilidad de tiempo de todos nuestros clientes. Aquí podrás encontrar un programa específico para ti: desde seguridad básica en el agua hasta niveles de competencia de alto rendimiento.
+                  Contamos con diversidad de programas para adaptarnos a la diversidad niveles, objetivos y disponibilidad de tiempo de todos nuestros clientes. Aquí podrás encontrar un programa específico para ti: desde seguridad básica en el agua hasta niveles de competencia de alto rendimiento.
                 </p>
                 <ul>
-                  <!--<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
-                  </li>
-                  <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a.
-                    Ipsum neque dolor voluptate nisi sed.</li>
-                </ul>
-                <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                  dolore
-                  magna aliqua.
-                </p>-->
+                 
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/img3.png" alt="" class="img-fluid">
@@ -375,21 +366,9 @@
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>GARANTIA AQUAX</h3>
                 <p>
-                28 años de experiencia con los mejores resultados nos respaldan.
+                  28 años de experiencia con los mejores resultados nos respaldan.
                 </p>
-                <!--<p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                  dolore
-                  magna aliqua.
-                </p>
-                <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
-                  </li>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                    aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla
-                    pariatur.</li>
-                </ul>-->
+               
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/img4.png" alt="" class="img-fluid">
@@ -399,7 +378,117 @@
         </div>
 
       </div>
-    </section><!-- End Features Section -->
+    </section>
+    -->
+    <!-- End Features Section -->
+
+    <section class="mt-0" style="background-color: rgb(36, 90, 152)">
+
+      <div class="container">
+        <div id="multi-item-example" class="carousel slide carousel-multi-item" data-ride="carousel">
+
+          <!--Controls-->
+         
+          <!--/.Controls-->
+
+          <!--Indicators-->
+          <ol class="carousel-indicators" style="position: relative;">
+            <li data-target="#multi-item-example" data-slide-to="0" class="active"></li>
+            <li data-target="#multi-item-example" data-slide-to="1"></li>
+            
+          </ol>
+          <!--/.Indicators-->
+
+          <!--Slides-->
+          <div class="carousel-inner" role="listbox">
+
+            <!--First slide-->
+            <div class="carousel-item active mb-5">
+
+              <div class="row ">
+                <div class="col-sm-6">
+                  <div class="card "style="background-color: rgb(36, 90, 152)">
+                    <img class="card-img-top" src="assets/img/img1.png" alt="Card image cap" >
+                    <div class="card-body">
+                      <h4 class="card-title text-center text-light">¿QUÉ ME OFRECE AQUAX?</h4>
+                      <p class="card-text text-justify text-light">GRUPO AQUAX te
+                        ofrece el sincero
+                        compromiso de esforzarnos
+                        por brindarte
+                        la calidad de servicio
+                        que tú mereces y de
+                        esmerarnos por mejorar
+                        dicha calidad día
+                        con día para satisfacer
+                        todos los requerimientos
+                        de nuestros
+                        clientes..</p>
+                      <a class="btn btn-primary">Ver más...</a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-sm-6 clearfix d-none d-md-block">
+                  <div class="card mb-2">
+                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(18).jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h4 class="card-title">Card title</h4>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                      <a class="btn btn-primary">Button</a>
+                    </div>
+                  </div>
+                </div>
+
+
+              </div>
+
+            </div>
+            <!--/.First slide-->
+
+            <!--Second slide-->
+            <div class="carousel-item">
+
+              <div class="row">
+                <div class="col-sm-6">
+                  <div class="card mb-2">
+                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(60).jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h4 class="card-title">Card title</h4>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                      <a class="btn btn-primary">Button</a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-sm-6 clearfix d-none d-md-block">
+                  <div class="card mb-2">
+                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(47).jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h4 class="card-title">Card title</h4>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                      <a class="btn btn-primary">Button</a>
+                    </div>
+                  </div>
+                </div>
+
+
+              </div>
+
+            </div>
+            <!--/.Second slide-->
+
+
+
+          </div>
+          <!--/.Slides-->
+
+        </div>
+      </div>
+
+    </section>
 
     <section class="certificaciones">
       <div class="container">
@@ -408,32 +497,32 @@
             <div class="col-lg-3 d-flex ">
               <i class=" fas fa-file-invoice-dollar fa-6x mx-3"></i>
               <h5 class="mx-3 my-auto text-light">CURSOS ADECUDADOS PARA TI</h5>
-              
+
             </div>
 
             <div class="col-lg-3 d-flex">
               <i class=" fas fa-swimmer fa-6x"></i>
               <h5 class="mx-3 my-auto text-light">28 AÑOS DE EXPERIENCIA</h5>
             </div>
-        
+
 
             <div class="col-lg-3 d-flex">
               <i class=" fas fa-users fa-6x"></i>
               <h5 class="mx-3 my-auto text-light">GRUPOS REDUCIDOS</h5>
             </div>
-      
+
 
             <div class="col-lg-3 d-flex">
               <i class=" fas fa-book-reader fa-6x"></i>
               <h5 class="mx-3 my-auto text-light">INSTRUCTORES CAPACITADOS CONTINUAMENTE</h5>
             </div>
-  
-            
-            </div>
+
 
           </div>
 
         </div>
+
+      </div>
 
       </div>
     </section>
@@ -542,18 +631,18 @@
 
           <div class="col-lg-6 d-flex faq-item justify-content-center" data-aos="fade-up">
 
-           <div class="sucursal ">
-            <img src="assets/img/fondo1.png" alt="">
-           </div>
+            <div class="sucursal ">
+              <img src="assets/img/fondo1.png" alt="">
+            </div>
           </div>
 
           <div class="col-lg-6 d-flex faq-item justify-content-center" data-aos="fade-up" data-aos-delay="100">
-          <div class="sucursal  ">
-          <img src="assets/img/fondo2.png" class="imglogo"alt="">
-           </div>
+            <div class="sucursal  ">
+              <img src="assets/img/fondo2.png" class="imglogo" alt="">
+            </div>
           </div>
 
-        
+
 
         </div>
 
@@ -561,7 +650,7 @@
     </section><!-- End Frequently Asked Questions Section -->
 
     <!-- ======= Contact Us Section ======= -->
-    
+
 
   </main><!-- End #main -->
 
@@ -572,37 +661,37 @@
         <div class="row">
 
           <div class="col-lg-2 col-md-6 footer-info ">
-            <img class="logofooter"src="assets/img/logow.png" alt="">
-            
+            <img class="logofooter" src="assets/img/logow.png" alt="">
+
           </div>
           <div class="col-lg-3 ">
-          <div class="social d-flex align-self-center align-items-center ">
+            <div class="social d-flex align-self-center align-items-center ">
 
-          <a href="#" class="icono "><img class="iredes" src="assets/img/facebookw.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/instagramw.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/correow.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/whatsappw.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/telefonow.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/facebookw.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/instagramw.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/correow.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/whatsappw.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/telefonow.png"></img></a>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            
+
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">SERVICIOS</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">SUCURSALES</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">NOSOTROS</a></li>
-            
+
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-           
+
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#"> COVID-19 </a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">REGLAMENTO</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">CONTACTO</a></li>
-            
+
             </ul>
           </div>
 
@@ -611,14 +700,14 @@
       </div>
     </div>
 
-  <div class="container">
-    <div class="copyright">
-      &copy; Copyright <strong><span>TECNIEM</span></strong>. Todos los derechos reservados.
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>TECNIEM</span></strong>. Todos los derechos reservados.
+      </div>
+      <div class="credits">
+
+      </div>
     </div>
-    <div class="credits">
-     
-    </div>
-  </div>
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
