@@ -1807,7 +1807,7 @@ section {
 }
 
 .tituloplan {
-    background-color: rgb(37, 142, 206);
+    background-color: rgb(50, 85, 144);
     padding: 30px 0px;
 }
 
@@ -1871,4 +1871,13 @@ section {
 
 .espaciado {
     letter-spacing: 0.2em;
+}
+
+.sucursales {
+    background-color: rgb(50, 85, 144);
+    padding: 0px 0px;
+}
+
+.imagensucursal {
+    max-height: 400px;
 }
