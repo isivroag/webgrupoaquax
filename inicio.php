@@ -423,19 +423,24 @@
                         todos los requerimientos
                         de nuestros
                         clientes..</p>
-                      <a class="btn btn-primary">Ver más...</a>
+                        <div class="text-center">
+                        <a class="btn btn-primary " style="border-radius: 18px; width:150px">Ver más...</a>
+                        </div>
+                      
                     </div>
                   </div>
                 </div>
 
                 <div class="col-sm-6 clearfix d-none d-md-block">
                   <div class="card mb-2">
-                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(18).jpg" alt="Card image cap">
+                    <img class="card-img-top" src="assets/img/img2.png" alt="Card image cap">
                     <div class="card-body">
-                      <h4 class="card-title">Card title</h4>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                      <h4 class="card-title text-center">Card title</h4>
+                      <p class="card-text text-justify">Some quick example text to build on the card title and make up the bulk of the
                         card's content.</p>
-                      <a class="btn btn-primary">Button</a>
+                        <div class="text-center">
+                        <a class="btn btn-primary " style="border-radius: 18px; width:150px">Ver más...</a>
+                        </div>
                     </div>
                   </div>
                 </div>
@@ -452,24 +457,28 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="card mb-2">
-                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(60).jpg" alt="Card image cap">
+                    <img class="card-img-top" src="assets/img/img3.png" alt="Card image cap">
                     <div class="card-body">
-                      <h4 class="card-title">Card title</h4>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                      <h4 class="card-title text-center">Card title</h4>
+                      <p class="card-text text-justify">Some quick example text to build on the card title and make up the bulk of the
                         card's content.</p>
-                      <a class="btn btn-primary">Button</a>
+                        <div class="text-center">
+                        <a class="btn btn-primary " style="border-radius: 18px; width:150px">Ver más...</a>
+                        </div>
                     </div>
                   </div>
                 </div>
 
                 <div class="col-sm-6 clearfix d-none d-md-block">
                   <div class="card mb-2">
-                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(47).jpg" alt="Card image cap">
+                    <img class="card-img-top" src="assets/img/img4.png" alt="Card image cap">
                     <div class="card-body">
-                      <h4 class="card-title">Card title</h4>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                      <h4 class="card-title text-center">Card title</h4>
+                      <p class="card-text text-justify">Some quick example text to build on the card title and make up the bulk of the
                         card's content.</p>
-                      <a class="btn btn-primary">Button</a>
+                        <div class="text-center">
+                        <a class="btn btn-primary " style="border-radius: 18px; width:150px">Ver más...</a>
+                        </div>
                     </div>
                   </div>
                 </div>
