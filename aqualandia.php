@@ -333,28 +333,33 @@
             </div>-->
             </section><!-- End Features Section -->
 
+            <section>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12 d-block">
+                            <img class="bannert" src="assets/img/natacion.png" alt="">
+                        </div>
+                        <div class="col-lg-10 justify-content-center">
+                            <a href="aquamaternal.php"><img class="banner" src="assets/img/aquamaternalbar.png" alt=""></a>
+                            <img class="banner" src="assets/img/bebesbar.png" alt="">
+                            <img class="banner" src="assets/img/preescolaresbar.png" alt="">
+                            <img class="banner" src="assets/img/escolaresbar.png" alt="">
+                            <img class="banner" src="assets/img/jovenesbar.png" alt="">
+                            <img class="banner" src="assets/img/adultosbar.png" alt="">
+                            <img class="banner" src="assets/img/terapeuticabar.png" alt="">
+                            <img class="banner" src="assets/img/librebar.png" alt="">
 
-            <div class="container">
-                <div class="row d-flex">
-                    <div class="col-lg-12 justify-content-center">
-                        <img src="assets/img/natacion.png" alt="" width="1200">
-                        <img src="assets/img/aquamaternalbar.png" alt="" width="1000">
-                        <img src="assets/img/bebesbar.png" alt="" width="1000">
-                        <img src="assets/img/preescolaresbar.png" alt="" width="1000">
-                        <img src="assets/img/escolaresbar.png" alt="" width="1000">
-                        <img src="assets/img/jovenesbar.png" alt="" width="1000">
-                        <img src="assets/img/adultosbar.png" alt="" width="1000">
-                        <img src="assets/img/terapeuticabar.png" alt="" width="1000">
-                        <img src="assets/img/librebar.png" alt="" width="1000">
-                        <img src="assets/img/deporteeducativobar.png" alt="" width="1200">
-                        <img src="assets/img/escuelasbar.png" alt="" width="1200">
-                        <img src="assets/img/gymxbar.png" alt="" width="1200">
-                        <br><br>
+                        </div>
+                        <div class="col-lg-12 d-block">
+                            <img class="bannert" src="assets/img/deporteeducativobar.png" alt="">
+                            <img class="bannert" src="assets/img/escuelasbar.png" alt="">
+                            <img class="bannert" src="assets/img/gymxbar.png" alt="">
+
+                        </div>
                     </div>
                 </div>
-            </div>
 
-
+            </section>
 
 
 
@@ -401,8 +406,12 @@
                         <div class="col-md-12 clase-text">
 
                             <h1 style="color: #fff;">¿Dónde está localizada Aqualandia?</h1>
-                            <div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 400px">
-                                <iframe src="https://www.google.com.mx/maps/place/Aqualandia/" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <div id="map-container-google-1" class="z-depth-1-half map-container mb-5" style="height: 400px">
+                                <!--
+                                    AQUAX
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.1963481565119!2d-96.9231958264758!3d19.507866818747793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2df4dfb66427%3A0x76672ac901d51fc1!2sAquax!5e0!3m2!1ses-419!2smx!4v1616627738571!5m2!1ses-419!2smx" width="600" height="450" style="border:0;border-radius:10px" allowfullscreen="" loading="lazy"></iframe>
+                                -->
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d790.5226846023163!2d-96.91049772011634!3d19.525258162586784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db321b4b93353d%3A0xeab3fc94dddb5344!2sAqualandia!5e0!3m2!1ses-419!2smx!4v1616627537817!5m2!1ses-419!2smx" width="600" height="450" style="border:0; border-radius:10px" allowfullscreen="" loading="lazy"></iframe>
                             </div>
                             <h4 style="color: #fff;">Cempoala 12 Fracc. Los Ángeles C.P. 91064 <br> Xalapa, Veracruz.</h4>
                             <!--<img class="align-top" src="assets/img/aqualand.png" alt="">-->

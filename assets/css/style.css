@@ -1884,7 +1884,7 @@ section {
 
 .mapa {
     background-color: rgb(50, 85, 144);
-    padding: 0px 0px;
+   
     color: #fff !important;
 }
 
@@ -1901,4 +1901,13 @@ section {
     height: 100%;
     width: 100%;
     position: absolute;
+}
+
+.banner{
+    width: fit-content;
+    max-width: 900px;
+}
+.bannert{
+    width: fit-content;
+    max-width: 1140px;
 }
