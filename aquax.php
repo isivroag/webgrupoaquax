@@ -59,6 +59,7 @@
                     <a href="#" class="icono"><img class="iredes" src="assets/img/correo.png"></img></a>
                     <a href="#" class="icono"><img class="iredes" src="assets/img/whatsapp.png"></img></a>
                     <a href="#" class="icono"><img class="iredes" src="assets/img/telefono.png"></img></a>
+                    <a href="#" class="icono"><img class="iredes" src="assets/img/telegram.png"></img></a>
                 </div>
             </div>
         </div>

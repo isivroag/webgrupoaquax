@@ -60,6 +60,7 @@
                     <a href="#" class="icono"><img class="iredes" src="assets/img/correo.png"></img></a>
                     <a href="#" class="icono"><img class="iredes" src="assets/img/whatsapp.png"></img></a>
                     <a href="#" class="icono"><img class="iredes" src="assets/img/telefono.png"></img></a>
+                    <a href="#" class="icono"><img class="iredes" src="assets/img/telegram.png"></img></a>
                 </div>
             </div>
         </div>
@@ -130,7 +131,7 @@
 
                 </div>
                 <div class="col-md-3 ">
-                    <img class="align-top imagenplan" src="assets/img/20min.png" alt="">
+                    <img class="align-top imagenplan" src="assets/img/20min2.png" alt="">
                 </div>
             </div>
         </div>
@@ -142,7 +143,7 @@
         <div class="container">
             <div class="row d-flex justify-content-between">
                 <div class="detlletexto col-lg-6 my-auto">
-                    
+
                     <p> Programa en el cual una persona con una lesión o discapacidad física encuentre en el ambiente acuático el medio para que su calidad de vida mejore en todos los ámbitos. <br> <br> Clases con instructor individual y con nuestras instalaciones adecuadas para poder accesar a la alberca en silla de ruedas.
                     </p>
                 </div>

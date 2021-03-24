@@ -60,6 +60,7 @@
           <a href="#" class="icono"><img class="iredes" src="assets/img/correo.png"></img></a>
           <a href="#" class="icono"><img class="iredes" src="assets/img/whatsapp.png"></img></a>
           <a href="#" class="icono"><img class="iredes" src="assets/img/telefono.png"></img></a>
+          <a href="#" class="icono"><img class="iredes" src="assets/img/telegram.png"></img></a>
         </div>
       </div>
     </div>
@@ -435,9 +436,8 @@
                   <div class="card mb-2">
                     <img class="card-img-top" src="assets/img/img2.png" alt="Card image cap">
                     <div class="card-body">
-                      <h4 class="card-title text-center">Card title</h4>
-                      <p class="card-text text-justify">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
+                      <h4 class="card-title text-center">¿POR QUÉ NADAR EN GRUPO AQUAX?</h4>
+                      <p class="card-text text-justify">Porque aquí tú eres lo más importante y porque contamos con los más calificados instructores y entrenadores así como con las mejores instalaciones para la actividad acuática deportiva, educativa y recreativa en la región de Xalapa.</p>
                         <div class="text-center">
                         <a class="btn btn-primary " style="border-radius: 18px; width:150px">Ver más...</a>
                         </div>
@@ -459,9 +459,8 @@
                   <div class="card mb-2">
                     <img class="card-img-top" src="assets/img/img3.png" alt="Card image cap">
                     <div class="card-body">
-                      <h4 class="card-title text-center">Card title</h4>
-                      <p class="card-text text-justify">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
+                      <h4 class="card-title text-center">¿QUÉ CLASE DEBO ESCOGER?</h4>
+                      <p class="card-text text-justify">Contamos con diversidad de programas para adaptarnos a la diversidad niveles, objetivos y disponibilidad de tiempo de todos nuestros clientes. Aquí podrás encontrar un programa específico para ti: desde seguridad básica en el agua hasta niveles de competencia de alto rendimiento.</p>
                         <div class="text-center">
                         <a class="btn btn-primary " style="border-radius: 18px; width:150px">Ver más...</a>
                         </div>
@@ -473,9 +472,9 @@
                   <div class="card mb-2">
                     <img class="card-img-top" src="assets/img/img4.png" alt="Card image cap">
                     <div class="card-body">
-                      <h4 class="card-title text-center">Card title</h4>
-                      <p class="card-text text-justify">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
+                      <h4 class="card-title text-center">GARANTÍA GRUPO AQUAX</h4>
+                      <BR><BR>
+                      <p class="card-text text-justify">28 años de experiencia con los mejores resultados nos respaldan.</p><br>
                         <div class="text-center">
                         <a class="btn btn-primary " style="border-radius: 18px; width:150px">Ver más...</a>
                         </div>

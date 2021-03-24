@@ -59,6 +59,7 @@
                     <a href="#" class="icono"><img class="iredes" src="assets/img/correo.png"></img></a>
                     <a href="#" class="icono"><img class="iredes" src="assets/img/whatsapp.png"></img></a>
                     <a href="#" class="icono"><img class="iredes" src="assets/img/telefono.png"></img></a>
+                    <a href="#" class="icono"><img class="iredes" src="assets/img/telegram.png"></img></a>
                 </div>
             </div>
         </div>
@@ -216,7 +217,7 @@
         </section>
 
 
-        <section id="features" class="features">
+        <!--<section id="features" class="features">
             <div class="container">
 
                 <ul class="nav nav-tabs row d-flex">
@@ -244,9 +245,10 @@
                             <h4 class="d-none d-lg-block text-center">Garantía <br>GRUPO AQUAX</h4>
                         </a>
                     </li>
-                </ul>
+                </ul>-->
 
-                <div class="tab-content" data-aos="fade-up">
+
+        <!--<div class="tab-content" data-aos="fade-up">
                     <div class="tab-pane active show" id="tab-1">
                         <div class="row">
                             <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
@@ -267,9 +269,9 @@
                                 <h3>¿POR QUE NADAR EN AQUAX?</h3>
                                 <p>
                                     Porque aquí tú eres lo más importante y porque contamos con los más calificados instructores y entrenadores así como con las mejores instalaciones para la actividad acuática deportiva, educativa y recreativa en la región de Xalapa.
-                                </p>
+                                </p>-->
 
-                            </div>
+        <!--</div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
                                 <img src="assets/img/img2.png" alt="" class="img-fluid">
                             </div>
@@ -282,8 +284,8 @@
                                 <p>
                                     Contamos con diversidad de programas para adaptarnos a la diversidad niveles, objetivos y disponibilidad de tiempo de todos nuestros clientes. Aquí podrás encontrar un programa específico para ti: desde seguridad básica en el agua hasta niveles de competencia de alto rendimiento.
                                 </p>
-                                <ul>
-                                    <!--<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                                <ul>-->
+        <!--<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
                   <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
                   </li>
                   <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a.
@@ -294,7 +296,7 @@
                   dolore
                   magna aliqua.
                 </p>-->
-                            </div>
+        <!--</div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
                                 <img src="assets/img/img3.png" alt="" class="img-fluid">
                             </div>
@@ -306,8 +308,8 @@
                                 <h3>GARANTIA AQUAX</h3>
                                 <p>
                                     28 años de experiencia con los mejores resultados nos respaldan.
-                                </p>
-                                <!--<p class="font-italic">
+                                </p>-->
+        <!--<p class="font-italic">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                   dolore
                   magna aliqua.
@@ -320,58 +322,102 @@
                     aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla
                     pariatur.</li>
                 </ul>-->
-                            </div>
-                            <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/img4.png" alt="" class="img-fluid">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
+        <<!-- /div>
+            <div class="col-lg-6 order-1 order-lg-2 text-center">
+                <img src="assets/img/img4.png" alt="" class="img-fluid">
             </div>
-        </section><!-- End Features Section -->
+            </div>
+            </div>
+            </div>
 
-        <section class="certificaciones">
+            </div>-->
+            </section><!-- End Features Section -->
+
+
             <div class="container">
-                <div class="mx-auto d-flex justify-content-center">
-                    <div class="row text-light justify-content-center mx-auto">
-                        <div class="col-lg-3 d-flex ">
-                            <i class=" fas fa-file-invoice-dollar fa-6x mx-3"></i>
-                            <h5 class="mx-3 my-auto text-light">CURSOS ADECUDADOS PARA TI</h5>
+                <div class="row d-flex">
+                    <div class="col-lg-12 justify-content-center">
+                        <img src="assets/img/natacion.png" alt="" width="1200">
+                        <img src="assets/img/aquamaternalbar.png" alt="" width="1000">
+                        <img src="assets/img/bebesbar.png" alt="" width="1000">
+                        <img src="assets/img/preescolaresbar.png" alt="" width="1000">
+                        <img src="assets/img/escolaresbar.png" alt="" width="1000">
+                        <img src="assets/img/jovenesbar.png" alt="" width="1000">
+                        <img src="assets/img/adultosbar.png" alt="" width="1000">
+                        <img src="assets/img/terapeuticabar.png" alt="" width="1000">
+                        <img src="assets/img/librebar.png" alt="" width="1000">
+                        <img src="assets/img/deporteeducativobar.png" alt="" width="1200">
+                        <img src="assets/img/escuelasbar.png" alt="" width="1200">
+                        <img src="assets/img/gymxbar.png" alt="" width="1200">
+                        <br><br>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <section class="certificaciones">
+                <div class="container">
+                    <div class="mx-auto d-flex justify-content-center">
+                        <div class="row text-light justify-content-center mx-auto">
+                            <div class="col-lg-3 d-flex ">
+                                <i class=" fas fa-file-invoice-dollar fa-6x mx-3"></i>
+                                <h5 class="mx-3 my-auto text-light">CURSOS ADECUDADOS PARA TI</h5>
+
+                            </div>
+
+                            <div class="col-lg-3 d-flex">
+                                <i class=" fas fa-swimmer fa-6x"></i>
+                                <h5 class="mx-3 my-auto text-light">28 AÑOS DE EXPERIENCIA</h5>
+                            </div>
+
+
+                            <div class="col-lg-3 d-flex">
+                                <i class=" fas fa-users fa-6x"></i>
+                                <h5 class="mx-3 my-auto text-light">GRUPOS REDUCIDOS</h5>
+                            </div>
+
+
+                            <div class="col-lg-3 d-flex">
+                                <i class=" fas fa-book-reader fa-6x"></i>
+                                <h5 class="mx-3 my-auto text-light">INSTRUCTORES CAPACITADOS CONTINUAMENTE</h5>
+                            </div>
+
 
                         </div>
-
-                        <div class="col-lg-3 d-flex">
-                            <i class=" fas fa-swimmer fa-6x"></i>
-                            <h5 class="mx-3 my-auto text-light">28 AÑOS DE EXPERIENCIA</h5>
-                        </div>
-
-
-                        <div class="col-lg-3 d-flex">
-                            <i class=" fas fa-users fa-6x"></i>
-                            <h5 class="mx-3 my-auto text-light">GRUPOS REDUCIDOS</h5>
-                        </div>
-
-
-                        <div class="col-lg-3 d-flex">
-                            <i class=" fas fa-book-reader fa-6x"></i>
-                            <h5 class="mx-3 my-auto text-light">INSTRUCTORES CAPACITADOS CONTINUAMENTE</h5>
-                        </div>
-
 
                     </div>
 
                 </div>
 
-            </div>
+                </div>
+            </section>
 
-            </div>
-        </section>
-        <!-- ======= About Lists Section ======= -->
-        <!-- End About Lists Section -->
+            <section class="mapa">
+                <div class="container">
+                    <div class="row d-flex justify-content-center">
+                        <div class="col-md-12 clase-text">
 
-        <!-- ======= Counts Section ======= -->
-        <!--<section class="counts section-bg">
+                            <h1 style="color: #fff;">¿Dónde está localizada Aqualandia?</h1>
+                            <div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 400px">
+                                <iframe src="https://www.google.com.mx/maps/place/Aqualandia/" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            </div>
+                            <h4 style="color: #fff;">Cempoala 12 Fracc. Los Ángeles C.P. 91064 <br> Xalapa, Veracruz.</h4>
+                            <!--<img class="align-top" src="assets/img/aqualand.png" alt="">-->
+
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <!-- ======= About Lists Section ======= -->
+            <!-- End About Lists Section -->
+
+            <!-- ======= Counts Section ======= -->
+            <!--<section class="counts section-bg">
       <div class="container">
 
         <div class="row">
@@ -411,9 +457,9 @@
         </div>
 
       </div>-->
-        </section><!-- End Counts Section -->
+            <!-- End Counts Section -->
 
-        <!-- ======= Services Section ======= 
+            <!-- ======= Services Section ======= 
     <section id="services" class="services">
       <div class="container">
 
@@ -457,25 +503,25 @@
       </div>
     </section> End Services Section -->
 
-        <!-- ======= Our Portfolio Section ======= -->
-        <section class="clasedeprueba ">
+            <!-- ======= Our Portfolio Section ======= -->
+            <section class="clasedeprueba ">
 
-            <div class="container">
-                <div class="row d-flex justify-content-between">
-                    <div class="col-lg-5 justify-content-center">
-                        <div class="clase-text">
-                            <h3 class="espaciado" style="color: #fff;">RESERVA TU</h3>
-                            <h1 style="font-size:50px;color: #fff;">CLASE DE PRUEBA <br> GRATIS</h1>
+                <div class="container">
+                    <div class="row d-flex justify-content-between">
+                        <div class="col-lg-5 justify-content-center">
+                            <div class="clase-text">
+                                <h3 class="espaciado" style="color: #fff;">RESERVA TU</h3>
+                                <h1 style="font-size:50px;color: #fff;">CLASE DE PRUEBA <br> GRATIS</h1>
 
-                            <button class="boton espaciado">INICIA AHORA</button>
+                                <button class="boton espaciado">INICIA AHORA</button>
+                            </div>
                         </div>
                     </div>
+
+
                 </div>
 
-
-            </div>
-
-        </section>
+            </section>
 
 
 

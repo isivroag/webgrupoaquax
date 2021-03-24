@@ -59,6 +59,7 @@
           <a href="#" class="icono"><img class="iredes" src="assets/img/correo.png"></img></a>
           <a href="#" class="icono"><img class="iredes" src="assets/img/whatsapp.png"></img></a>
           <a href="#" class="icono"><img class="iredes" src="assets/img/telefono.png"></img></a>
+          <a href="#" class="icono"><img class="iredes" src="assets/img/telegram.png"></img></a>
         </div>
       </div>
     </div>
@@ -129,7 +130,7 @@
           
         </div>
         <div class="col-md-3 ">
-            <img class="align-top imagenplan" src="assets/img/30min.png" alt="">
+            <img class="align-top imagenplan" src="assets/img/30min3.png" alt="">
         </div>
     </div>
     </div>

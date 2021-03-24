@@ -1881,3 +1881,24 @@ section {
 .imagensucursal {
     max-height: 400px;
 }
+
+.mapa {
+    background-color: rgb(50, 85, 144);
+    padding: 0px 0px;
+    color: #fff !important;
+}
+
+.map-container {
+    overflow: hidden;
+    padding-bottom: 40%;
+    position: relative;
+    height: 0;
+}
+
+.map-container iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
