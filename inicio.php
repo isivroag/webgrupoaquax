@@ -646,13 +646,13 @@
           <div class="col-lg-6 d-flex faq-item justify-content-center" data-aos="fade-up">
 
             <div class="sucursal ">
-              <img src="assets/img/fondo1.png" alt="">
+              <a href="aqualandia.php"><img src="assets/img/fondo1.png" alt=""></a>
             </div>
           </div>
 
           <div class="col-lg-6 d-flex faq-item justify-content-center" data-aos="fade-up" data-aos-delay="100">
             <div class="sucursal  ">
-              <img src="assets/img/fondo2.png" class="imglogo" alt="">
+            <a href="aquax.php"><img src="assets/img/fondo2.png" class="imglogo" alt=""></a>
             </div>
           </div>
 

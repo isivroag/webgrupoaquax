@@ -131,7 +131,7 @@
 
     <section id="titulo" class="sucursales">
         <div class="container">
-            <div class="row d-flex justify-content-between ">
+            <div class="row d-flex justify-content-between text-center ">
                 <div class="col-md-12 my-auto">
                     <div class="contenedortitulo">
                         <img class="align-top imagensucursal" src="assets/img/aquax.png" alt="">
@@ -230,20 +230,20 @@
                     </div>
                     <div class="col-lg-10 justify-content-center">
                         <a href="aquamaternal.php"><img class="banner" src="assets/img/aquamaternalbar.png" alt=""></a>
-                        <a href="bebes.php"><img class="banner" src="assets/img/bebesbar.png" alt="">
-                        <a href="preescolares.php"><img class="banner" src="assets/img/preescolaresbar.png" alt="">
-                        <a href="escolares.php"><img class="banner" src="assets/img/escolaresbar.png" alt="">
-                        <a href="jovenes.php"><img class="banner" src="assets/img/jovenesbar.png" alt="">
-                        <a href="adultos.php"><img class="banner" src="assets/img/adultosbar.png" alt="">
-                        <a href="terapeutico.php"><img class="banner" src="assets/img/terapeuticabar.png" alt="">
-                        <a href="libre.php"><img class="banner" src="assets/img/librebar.png" alt="">
+                        <a href="bebes.php"><img class="banner" src="assets/img/bebesbar.png" alt=""></a>
+                        <a href="preescolares.php"><img class="banner" src="assets/img/preescolaresbar.png" alt=""></a>
+                        <a href="escolares.php"><img class="banner" src="assets/img/escolaresbar.png" alt=""></a>
+                        <a href="jovenes.php"><img class="banner" src="assets/img/jovenesbar.png" alt=""></a>
+                        <a href="adultos.php"><img class="banner" src="assets/img/adultosbar.png" alt=""></a>
+                        <a href="terapeutico.php"><img class="banner" src="assets/img/terapeuticabar.png" alt=""></a>
+                        <a href="libre.php"><img class="banner" src="assets/img/librebar.png" alt=""></a>
 
                     </div>
                     <div class="col-lg-12 d-block">
                         <img class="bannert" src="assets/img/deporteeducativobar.png" alt="">
-                        <a href="escuelas.php"><img class="bannert" src="assets/img/escuelasbar.png" alt="">
+                        <a href="escuelas.php"><img class="bannert" src="assets/img/escuelasbar.png" alt=""></a>
                         <img class="bannert" src="assets/img/actividadesfisicasbar.png" alt="">
-                        <a href="gymx.php"><img class="bannert" src="assets/img/gymxbar.png" alt="">
+                        <a href="gymx.php"><img class="bannert" src="assets/img/gymxbar.png" alt=""></a>
 
                     </div>
                 </div>
