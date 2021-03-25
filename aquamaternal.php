@@ -134,6 +134,7 @@
           <div class="contenedortitulo">
             <h2 class="nombretitulo">AQUAMATERNAL</h2>
             <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
+            <H5 class="subtitulo text-center">0 a 3 años</H5>
           </div>
 
         </div>

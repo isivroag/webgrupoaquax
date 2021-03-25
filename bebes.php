@@ -133,6 +133,7 @@
           <div class="contenedortitulo">
             <h2 class="nombretitulo text-center">BEBÉS</h2>
             <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
+            <H5 class="subtitulo text-center">0 a 1 año personalizado</H5>
           </div>
 
         </div>

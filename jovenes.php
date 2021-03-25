@@ -134,6 +134,7 @@
                     <div class="contenedortitulo">
                         <h2 class="nombretitulo">JÓVENES Y ADULTOS</h2>
                         <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
+                        <H5 class="subtitulo text-center">18 a 59 años</H5>
                     </div>
 
                 </div>

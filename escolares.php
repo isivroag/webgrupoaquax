@@ -134,6 +134,7 @@
                     <div class="contenedortitulo">
                         <h2 class="nombretitulo text-center">ESCOLARES</h2>
                         <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
+                        <H5 class="subtitulo text-center">8 a 17 años</H5>
                     </div>
 
                 </div>
