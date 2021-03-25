@@ -95,7 +95,13 @@
                         </ul>
                     </li>
 
-                    <li><a href="#portfolio">Sucursales</a></li>
+                    <li class="drop-down"><a href="">Sucursales</a>
+                        <ul>
+                            <li><a href="aqualandia.php">Aqualandia</a></li>
+                            <li><a href="aquax.php">Aquax</a></li>
+                        </ul>
+                    </li>
+
                     <li><a href="#about">Nosotros</a></li>
                     <li><a href="#team">Reglamento</a></li>
 
@@ -216,121 +222,37 @@
             </div>
         </section>
 
-
-        <section id="features" class="features">
+        <section>
             <div class="container">
-
-                <ul class="nav nav-tabs row d-flex">
-                    <li class="nav-item col-3" data-aos="zoom-in">
-                        <a class="nav-link active show" data-toggle="tab" href="#tab-1">
-                            <i class="ri-gps-line"></i>
-                            <h4 class="d-none d-lg-block text-center">¿Qué me ofrece <br>GRUPO AQUAX?</h4>
-                        </a>
-                    </li>
-                    <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="100">
-                        <a class="nav-link" data-toggle="tab" href="#tab-2">
-                            <i class="ri-body-scan-line"></i>
-                            <h4 class="d-none d-lg-block text-center">¿Por qué nadar en <br>GRUPO AQUAX?</h4>
-                        </a>
-                    </li>
-                    <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="200">
-                        <a class="nav-link" data-toggle="tab" href="#tab-3">
-                            <i class="ri-sun-line"></i>
-                            <h4 class="d-none d-lg-block text-center">¿Qué clase debo escoger?</h4>
-                        </a>
-                    </li>
-                    <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="300">
-                        <a class="nav-link" data-toggle="tab" href="#tab-4">
-                            <i class="ri-store-line"></i>
-                            <h4 class="d-none d-lg-block text-center">Garantía <br>GRUPO AQUAX</h4>
-                        </a>
-                    </li>
-                </ul>
-
-                <div class="tab-content" data-aos="fade-up">
-                    <div class="tab-pane active show" id="tab-1">
-                        <div class="row">
-                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                                <H3>¿QUE ME OFRECE AQUAX?</H3>
-
-                                <p>GRUPO AQUAX te ofrece el sincero compromiso de esforzarnos por brindarte la calidad de servicio que tú mereces y de esmerarnos por mejorar dicha calidad día con día para satisfacer todos los requerimientos de nuestros clientes.
-                                </p>
-                            </div>
-
-                            <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/img1.png" alt="" class="img-fluid img-recurso">
-                            </div>
-                        </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-12 d-block">
+                        <img class="bannert" src="assets/img/natacion.png" alt="">
                     </div>
-                    <div class="tab-pane" id="tab-2">
-                        <div class="row">
-                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                                <h3>¿POR QUE NADAR EN AQUAX?</h3>
-                                <p>
-                                    Porque aquí tú eres lo más importante y porque contamos con los más calificados instructores y entrenadores así como con las mejores instalaciones para la actividad acuática deportiva, educativa y recreativa en la región de Xalapa.
-                                </p>
+                    <div class="col-lg-10 justify-content-center">
+                        <a href="aquamaternal.php"><img class="banner" src="assets/img/aquamaternalbar.png" alt=""></a>
+                        <a href="bebes.php"><img class="banner" src="assets/img/bebesbar.png" alt="">
+                        <a href="preescolares.php"><img class="banner" src="assets/img/preescolaresbar.png" alt="">
+                        <a href="escolares.php"><img class="banner" src="assets/img/escolaresbar.png" alt="">
+                        <a href="jovenes.php"><img class="banner" src="assets/img/jovenesbar.png" alt="">
+                        <a href="adultos.php"><img class="banner" src="assets/img/adultosbar.png" alt="">
+                        <a href="terapeutico.php"><img class="banner" src="assets/img/terapeuticabar.png" alt="">
+                        <a href="libre.php"><img class="banner" src="assets/img/librebar.png" alt="">
 
-                            </div>
-                            <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/img2.png" alt="" class="img-fluid">
-                            </div>
-                        </div>
                     </div>
-                    <div class="tab-pane" id="tab-3">
-                        <div class="row">
-                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                                <h3>¿QUE CLASE DEBO ESCOGER?</h3>
-                                <p>
-                                    Contamos con diversidad de programas para adaptarnos a la diversidad niveles, objetivos y disponibilidad de tiempo de todos nuestros clientes. Aquí podrás encontrar un programa específico para ti: desde seguridad básica en el agua hasta niveles de competencia de alto rendimiento.
-                                </p>
-                                <ul>
-                                    <!--<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
-                  </li>
-                  <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a.
-                    Ipsum neque dolor voluptate nisi sed.</li>
-                </ul>
-                <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                  dolore
-                  magna aliqua.
-                </p>-->
-                            </div>
-                            <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/img3.png" alt="" class="img-fluid">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane" id="tab-4">
-                        <div class="row">
-                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                                <h3>GARANTIA AQUAX</h3>
-                                <p>
-                                    28 años de experiencia con los mejores resultados nos respaldan.
-                                </p>
-                                <!--<p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                  dolore
-                  magna aliqua.
-                </p>
-                <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
-                  </li>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                    aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla
-                    pariatur.</li>
-                </ul>-->
-                            </div>
-                            <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/img4.png" alt="" class="img-fluid">
-                            </div>
-                        </div>
+                    <div class="col-lg-12 d-block">
+                        <img class="bannert" src="assets/img/deporteeducativobar.png" alt="">
+                        <a href="escuelas.php"><img class="bannert" src="assets/img/escuelasbar.png" alt="">
+                        <img class="bannert" src="assets/img/actividadesfisicasbar.png" alt="">
+                        <a href="gymx.php"><img class="bannert" src="assets/img/gymxbar.png" alt="">
+
                     </div>
                 </div>
-
             </div>
-        </section><!-- End Features Section -->
+
+        </section>
+
+
+
 
         <section class="certificaciones">
             <div class="container">
@@ -367,6 +289,24 @@
             </div>
 
             </div>
+        </section>
+
+        <section class="mapa">
+            <div class="container">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-12 clase-text">
+
+                        <h1 style="color: #fff;">¿Dónde está localizada Aquax?</h1>
+                        <div id="map-container-google-1" class="z-depth-1-half map-container mb-5" style="height: 400px">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.1963481565119!2d-96.9231958264758!3d19.507866818747793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2df4dfb66427%3A0x76672ac901d51fc1!2sAquax!5e0!3m2!1ses-419!2smx!4v1616627738571!5m2!1ses-419!2smx" width="600" height="450" style="border:0;border-radius:10px" allowfullscreen="" loading="lazy"></iframe>
+                        </div>
+                        <h4 style="color: #fff;">Calle María Esther Zuno de Echeverría 25 Col. Emiliano Zapata C.P. 91093 <br> Xalapa, Veracruz.</h4>
+                        <!--<img class="align-top" src="assets/img/aqualand.png" alt="">-->
+
+                    </div>
+                </div>
+            </div>
+
         </section>
         <!-- ======= About Lists Section ======= -->
         <!-- End About Lists Section -->
@@ -412,7 +352,7 @@
         </div>
 
       </div>-->
-        </section><!-- End Counts Section -->
+        <!-- End Counts Section -->
 
         <!-- ======= Services Section ======= 
     <section id="services" class="services">

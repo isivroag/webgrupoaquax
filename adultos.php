@@ -93,7 +93,14 @@
                             <li><a href="gymx.php">GYMX</a></li>
                         </ul>
                     </li>
-                    <li><a href="#portfolio">Sucursales</a></li>
+
+                    <li class="drop-down"><a href="">Sucursales</a>
+                        <ul>
+                            <li><a href="aqualandia.php">Aqualandia</a></li>
+                            <li><a href="aquax.php">Aquax</a></li>
+                        </ul>
+                    </li>
+
                     <li><a href="#about">Nosotros</a></li>
                     <li><a href="#team">Reglamento</a></li>
 

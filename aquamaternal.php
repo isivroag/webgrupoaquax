@@ -16,7 +16,7 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i,900" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <link href="//db.onlinewebfonts.com/c/67137b5f6928edc941186baaab5a664b?family=Lemon/Milk" rel="stylesheet" type="text/css" />
 
@@ -93,7 +93,14 @@
               <li><a href="gymx.php">GYMX</a></li>
             </ul>
           </li>
-          <li><a href="#portfolio">Sucursales</a></li>
+
+          <li class="drop-down"><a href="">Sucursales</a>
+            <ul>
+              <li><a href="aqualandia.php">Aqualandia</a></li>
+              <li><a href="aquax.php">Aquax</a></li>
+            </ul>
+          </li>
+
           <li><a href="#about">Nosotros</a></li>
           <li><a href="#team">Reglamento</a></li>
 
@@ -144,8 +151,8 @@
       <div class="row d-flex justify-content-between">
         <div class="detlletexto col-lg-6 my-auto">
           <p>Bebés de 3 meses a 1 año. </p>
-           <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje. <br> Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo. <br><br>
-               No es necesario que los padres sepan nadar. Contamos con una alberca pedagógicamente diseñada con diferentes plataformas de profundidad para su seguridad y desplazamiento. Es importante que los padres transmitan el gusto por el agua y bienestar total.
+          <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje. <br> Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo. <br><br>
+            No es necesario que los padres sepan nadar. Contamos con una alberca pedagógicamente diseñada con diferentes plataformas de profundidad para su seguridad y desplazamiento. Es importante que los padres transmitan el gusto por el agua y bienestar total.
 
           </p>
         </div>

@@ -95,7 +95,13 @@
                         </ul>
                     </li>
 
-                    <li><a href="#portfolio">Sucursales</a></li>
+                    <li class="drop-down"><a href="">Sucursales</a>
+                        <ul>
+                            <li><a href="aqualandia.php">Aqualandia</a></li>
+                            <li><a href="aquax.php">Aquax</a></li>
+                        </ul>
+                    </li>
+
                     <li><a href="#about">Nosotros</a></li>
                     <li><a href="#team">Reglamento</a></li>
 
@@ -341,19 +347,19 @@
                         </div>
                         <div class="col-lg-10 justify-content-center">
                             <a href="aquamaternal.php"><img class="banner" src="assets/img/aquamaternalbar.png" alt=""></a>
-                            <img class="banner" src="assets/img/bebesbar.png" alt="">
-                            <img class="banner" src="assets/img/preescolaresbar.png" alt="">
-                            <img class="banner" src="assets/img/escolaresbar.png" alt="">
-                            <img class="banner" src="assets/img/jovenesbar.png" alt="">
-                            <img class="banner" src="assets/img/adultosbar.png" alt="">
-                            <img class="banner" src="assets/img/terapeuticabar.png" alt="">
-                            <img class="banner" src="assets/img/librebar.png" alt="">
+                            <a href="bebes.php"><img class="banner" src="assets/img/bebesbar.png" alt="">
+                            <a href="preescolares.php"><img class="banner" src="assets/img/preescolaresbar.png" alt="">
+                            <a href="escolares.php"><img class="banner" src="assets/img/escolaresbar.png" alt="">
+                            <a href="jovenes.php"><img class="banner" src="assets/img/jovenesbar.png" alt="">
+                            <a href="adultos.php"><img class="banner" src="assets/img/adultosbar.png" alt="">
+                            <a href="terapeutico.php"><img class="banner" src="assets/img/terapeuticabar.png" alt="">
+                            <a href="libre.php"><img class="banner" src="assets/img/librebar.png" alt="">
 
                         </div>
                         <div class="col-lg-12 d-block">
-                            <img class="bannert" src="assets/img/deporteeducativobar.png" alt="">
-                            <img class="bannert" src="assets/img/escuelasbar.png" alt="">
-                            <img class="bannert" src="assets/img/gymxbar.png" alt="">
+                        <img class="bannert" src="assets/img/deporteeducativobar.png" alt="">
+                        <a href="escuelas.php"><img class="bannert" src="assets/img/escuelasbar.png" alt="">
+                        <a href="gymx.php"><img class="bannert" src="assets/img/gymxbar.png" alt="">
 
                         </div>
                     </div>

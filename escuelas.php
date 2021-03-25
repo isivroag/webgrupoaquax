@@ -92,11 +92,18 @@
                             <li><a href="gymx.php">GYMX</a></li>
                         </ul>
                     </li>
-                    <li><a href="#portfolio">Sucursales</a></li>
-                    <li><a href="#about">Nosotros</a></li>
-                    <li><a href="#team">Reglamento</a></li>
 
-                    <!--<li class="drop-down"><a href="">Drop Down</a>
+                    <<li class="drop-down"><a href="">Sucursales</a>
+                        <ul>
+                            <li><a href="aqualandia.php">Aqualandia</a></li>
+                            <li><a href="aquax.php">Aquax</a></li>
+                        </ul>
+                        </li>
+
+                        <li><a href="#about">Nosotros</a></li>
+                        <li><a href="#team">Reglamento</a></li>
+
+                        <!--<li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li class="drop-down"><a href="#">Drop Down 2</a>
@@ -112,8 +119,8 @@
               <li><a href="#">Drop Down 4</a></li>
               <li><a href="#">Drop Down 5</a></li>
             </ul>-->
-                    </li>
-                    <li><a href="#contact">Contacto</a></li>
+                        </li>
+                        <li><a href="#contact">Contacto</a></li>
                 </ul>
             </nav><!-- .nav-menu -->
 
@@ -143,7 +150,7 @@
             <div class="row d-flex justify-content-between">
                 <div class="detlletexto col-lg-6 my-auto">
 
-                    <p> Adaptamos nuestros programas y horarios a las necesidades de la escuela para garantizar una mejor atención. <br> <br> Ofrecemos clases a las escuelas una vez por semana en horario matutino de lunes a viernes.<br><br> 
+                    <p> Adaptamos nuestros programas y horarios a las necesidades de la escuela para garantizar una mejor atención. <br> <br> Ofrecemos clases a las escuelas una vez por semana en horario matutino de lunes a viernes.<br><br>
                         Firmamos un convenio de colaboración con escuela en donde se establecen las responsabilidades de las instituciones.
 
 

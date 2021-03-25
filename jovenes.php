@@ -93,7 +93,14 @@
                             <li><a href="gymx.php">GYMX</a></li>
                         </ul>
                     </li>
-                    <li><a href="#portfolio">Sucursales</a></li>
+
+                    <li class="drop-down"><a href="">Sucursales</a>
+                        <ul>
+                            <li><a href="aqualandia.php">Aqualandia</a></li>
+                            <li><a href="aquax.php">Aquax</a></li>
+                        </ul>
+                    </li>
+
                     <li><a href="#about">Nosotros</a></li>
                     <li><a href="#team">Reglamento</a></li>
 
@@ -143,7 +150,7 @@
         <div class="container">
             <div class="row d-flex justify-content-between">
                 <div class="detlletexto col-lg-6 my-auto">
-                    <p>De 15 a 59 años.  </p>
+                    <p>De 15 a 59 años. </p>
                     <p> El espacio y el método de enseñanza están diseñados para que el alumno transite cómoda y placenteramente, desde aquel que le tiene miedo al agua, hasta el que logra dominar los 4 estilos de natación. <br> La progresión del aprendizaje toma en cuenta los elementos psicomotores de la evolución humana. <br>
                         Cada nivel cuenta con objetivos concretos de aprendizaje, centrados en el alumno para garantizar el éxito en cada sesión y conquistar el dominio y la interacción cómoda y eficiente con el agua.
 

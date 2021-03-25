@@ -92,11 +92,18 @@
               <li><a href="gymx.php">GYMX</a></li>
             </ul>
           </li>
-          <li><a href="#portfolio">Sucursales</a></li>
-          <li><a href="#about">Nosotros</a></li>
-          <li><a href="#team">Reglamento</a></li>
-          
-          <!--<li class="drop-down"><a href="">Drop Down</a>
+
+          <<li class="drop-down"><a href="">Sucursales</a>
+            <ul>
+              <li><a href="aqualandia.php">Aqualandia</a></li>
+              <li><a href="aquax.php">Aquax</a></li>
+            </ul>
+            </li>
+
+            <li><a href="#about">Nosotros</a></li>
+            <li><a href="#team">Reglamento</a></li>
+
+            <!--<li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li class="drop-down"><a href="#">Drop Down 2</a>
@@ -112,61 +119,61 @@
               <li><a href="#">Drop Down 4</a></li>
               <li><a href="#">Drop Down 5</a></li>
             </ul>-->
-          </li>
-          <li><a href="#contact">Contacto</a></li>
+            </li>
+            <li><a href="#contact">Contacto</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
     </div>
   </header><!-- End Header -->
-<section id="titulo" class="tituloplan">
+  <section id="titulo" class="tituloplan">
     <div class="container">
-    <div class="row d-flex justify-content-between ">
+      <div class="row d-flex justify-content-between ">
         <div class="col-md-7 my-auto">
-            <div class="contenedortitulo">
+          <div class="contenedortitulo">
             <h2 class="nombretitulo text-center">BEBÉS</h2>
             <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
-            </div>
-          
+          </div>
+
         </div>
         <div class="col-md-3 ">
-            <img class="align-top imagenplan" src="assets/img/30min3.png" alt="">
+          <img class="align-top imagenplan" src="assets/img/30min3.png" alt="">
         </div>
+      </div>
     </div>
-    </div>
-    
-</section>
+
+  </section>
 
 
-<section>
-<div class="container">
-    <div class="row d-flex justify-content-between">
+  <section>
+    <div class="container">
+      <div class="row d-flex justify-content-between">
         <div class="detlletexto col-lg-6 my-auto">
-        <p>Bebés de 1 año a 3 años 11 meses.  </p>
-           <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje.<br> Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo. <br>
-              No es necesario que los padres sepan nadar. Contamos con una alberca pedagógicamente diseñada con diferentes plataformas de profundidad para su seguridad y desplazamiento. <br> Es importante que los padres transmitan el gusto por el agua y bienestar total.
+          <p>Bebés de 1 año a 3 años 11 meses. </p>
+          <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje.<br> Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo. <br>
+            No es necesario que los padres sepan nadar. Contamos con una alberca pedagógicamente diseñada con diferentes plataformas de profundidad para su seguridad y desplazamiento. <br> Es importante que los padres transmitan el gusto por el agua y bienestar total.
 
 
           </p>
         </div>
         <div class="col-lg-5">
-            <img class="detalleplan" src="assets/img/bebes.png" alt="">
+          <img class="detalleplan" src="assets/img/bebes.png" alt="">
         </div>
+      </div>
     </div>
-</div>
-</section  >
+  </section>
 
-<section class="plan">
+  <section class="plan">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <img src="assets/img/planbebes.png" alt="">
-            </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <img src="assets/img/planbebes.png" alt="">
         </div>
+      </div>
     </div>
-</section>
+  </section>
 
-<section class="clasedeprueba ">
+  <section class="clasedeprueba ">
 
     <div class="container">
       <div class="row d-flex justify-content-between">
@@ -197,37 +204,37 @@
         <div class="row">
 
           <div class="col-lg-2 col-md-6 footer-info ">
-            <img class="logofooter"src="assets/img/logow.png" alt="">
-            
+            <img class="logofooter" src="assets/img/logow.png" alt="">
+
           </div>
           <div class="col-lg-3 ">
-          <div class="social d-flex align-self-center align-items-center ">
+            <div class="social d-flex align-self-center align-items-center ">
 
-          <a href="#" class="icono "><img class="iredes" src="assets/img/facebookw.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/instagramw.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/correow.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/whatsappw.png"></img></a>
-          <a href="#" class="icono "><img class="iredes" src="assets/img/telefonow.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/facebookw.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/instagramw.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/correow.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/whatsappw.png"></img></a>
+              <a href="#" class="icono "><img class="iredes" src="assets/img/telefonow.png"></img></a>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            
+
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">SERVICIOS</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">SUCURSALES</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">NOSOTROS</a></li>
-            
+
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-           
+
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#"> COVID-19 </a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">REGLAMENTO</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">CONTACTO</a></li>
-            
+
             </ul>
           </div>
 
@@ -236,14 +243,14 @@
       </div>
     </div>
 
-  <div class="container">
-    <div class="copyright">
-      &copy; Copyright <strong><span>TECNIEM</span></strong>. Todos los derechos reservados.
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>TECNIEM</span></strong>. Todos los derechos reservados.
+      </div>
+      <div class="credits">
+
+      </div>
     </div>
-    <div class="credits">
-     
-    </div>
-  </div>
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
