@@ -10,8 +10,20 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/ico/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/ico/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/ico/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/ico/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/ico/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/ico/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/ico/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/ico/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/ico/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/ico/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/ico/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/ico/favicon-16x16.png">
+    <link rel="manifest" href="assets/img/ico/manifest.json">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i,900" rel="stylesheet">
@@ -50,18 +62,10 @@
             <div class="row justify-content-end">
                 <div class="col-md-6 text-right">
                     NUESTRAS MEDIDAS SANITARIAS
-                    <a href="inicio.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
+                    <a href="index.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
 
                 </div>
-                <div class="col-md-3">
 
-                    <a href="#" class="icono"><img class="iredes" src="assets/img/facebook.png"></img></a>
-                    <a href="#" class="icono"><img class="iredes" src="assets/img/instagram.png"></img></a>
-                    <a href="#" class="icono"><img class="iredes" src="assets/img/correo.png"></img></a>
-                    <a href="#" class="icono"><img class="iredes" src="assets/img/whatsapp.png"></img></a>
-                    <a href="#" class="icono"><img class="iredes" src="assets/img/telefono.png"></img></a>
-                    <a href="#" class="icono"><img class="iredes" src="assets/img/telegram.png"></img></a>
-                </div>
             </div>
         </div>
     </section>
@@ -73,12 +77,12 @@
             <div class="logo float-left">
                 <!--<h1 class="text-light"><a href="index.html"><span>Mamba</span></a></h1>-->
                 <!-- Uncomment below if you prefer to use an image logo -->
-                <a href="inicio.php"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
+                <a href="index.php"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
             </div>
 
             <nav class="nav-menu float-right d-none d-lg-block negritas">
                 <ul>
-                    <li class="active "><a href="inicio.php">Inicio</a></li>
+                    <li class="active "><a href="index.php">Inicio</a></li>
                     <li class="drop-down"><a href="">Servicios</a>
                         <ul>
                             <li><a href="aquamaternal.php">Aquamaternal</a></li>
@@ -210,14 +214,7 @@
 
                     </div>
                     <div class="col-lg-3 ">
-                        <div class="social d-flex align-self-center align-items-center ">
 
-                            <a href="#" class="icono "><img class="iredes" src="assets/img/facebookw.png"></img></a>
-                            <a href="#" class="icono "><img class="iredes" src="assets/img/instagramw.png"></img></a>
-                            <a href="#" class="icono "><img class="iredes" src="assets/img/correow.png"></img></a>
-                            <a href="#" class="icono "><img class="iredes" src="assets/img/whatsappw.png"></img></a>
-                            <a href="#" class="icono "><img class="iredes" src="assets/img/telefonow.png"></img></a>
-                        </div>
                     </div>
 
                     <div class="col-lg-2 col-md-6 footer-links">
