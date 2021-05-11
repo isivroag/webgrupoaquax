@@ -415,7 +415,7 @@
                                 -->
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d790.5226846023163!2d-96.91049772011634!3d19.525258162586784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db321b4b93353d%3A0xeab3fc94dddb5344!2sAqualandia!5e0!3m2!1ses-419!2smx!4v1616627537817!5m2!1ses-419!2smx" width="600" height="450" style="border:0; border-radius:10px" allowfullscreen="" loading="lazy"></iframe>
                             </div>
-                            <h4 style="color: #fff;">Cempoala 12 Fracc. Los Ángeles C.P. 91064 <br> Xalapa, Veracruz.</h4>
+                            <h4 style="color: #fff;">Cempoala 17 Fracc. Los Ángeles C.P. 91064 <br> Xalapa, Veracruz.</h4>
                             <!--<img class="align-top" src="assets/img/aqualand.png" alt="">-->
 
                         </div>

@@ -166,43 +166,37 @@
       </div>
     </section>
 
-    <!-- ======= About Us Section ======= -->
-    <!--<section id="about" class="about">
-      <div class="container">
+    <section id="gallery" class="gallery" style="background-color:#325590;">
+      <div class="container" >
 
-        <div class="row no-gutters">
-          <div class="col-lg-6 video-box">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
-          </div>
-
-          <div class="col-lg-6 d-flex flex-column justify-content-center about-content">
-
-            <div class="section-title">
-              <h2>GRUPO AQUAX</h2>
-              <p>Somos un club de escuelas de natación donde todos los miembros de la familia
-                tienen un lugar. Nos hemos ido transformando hacia un modelo integral que
-                incluye gimnasio, clases grupales y escuelas deportivas infantiles.
-                ¡CONOCENOS! y descubre todo lo que tenemos para ti.</p>
-            </div>
-
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">MISIÓN</a></h4>
-              <p class="description">A través de una infraestructura y servicio de alta calidad con personal capacitado y profesional, ser un importante apoyo para lograr una mejor sociedad satisfaciendo las necesidades en el aprendizaje y práctica de la natación, actividades holísticas y acondicionamiento físico.</p>
-            </div>
-
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">VISIÓN</a></h4>
-              <p class="description">Continuar siendo la principal institución en la enseñanza y práctica de la natación en el Estado de Veracruz y continuar creciendo en el país y el mundo de la competencia. Que el personal que labora en esta empresa se sienta orgulloso de ello.</p>
-            </div>
-
-          </div>
+        <div class="text-center pb-4">
+          <h4 class="espaciado nombretitulo">GALERIA</h4>
+          <p class="text-light" style="font-size: 22px;">Conoce Nuestras Instalaciones</p>
         </div>
 
-      </div>-->
-    </section><!-- End About Us Section -->
+        <div class="owl-carousel gallery-carousel"  >
+          <a href="assets/img/gallery/gallery-1.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-1.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-2.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-2.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-3.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-3.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-4.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-4.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-5.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-5.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-6.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-6.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-7.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-7.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-8.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-8.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-9.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-9.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-10.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-10.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-11.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-11.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-12.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-12.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-13.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-13.jpg" alt=""></a>
+          <a href="assets/img/gallery/gallery-14.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-14.jpg" alt=""></a>
+        </div>
+
+      </div>
+    </section><!-- End Gallery Section -->
+
+
+  
+    
     <section class="certificaciones">
       <div class="container">
         <div class="mx-auto d-flex justify-content-center">

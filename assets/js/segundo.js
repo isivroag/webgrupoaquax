@@ -209,4 +209,10 @@
         aos_init();
     });
 
+
+    
+      // Init AOS
+     
+   
+
 })(jQuery);
