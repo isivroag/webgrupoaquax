@@ -136,8 +136,8 @@
         <div class="col-md-7 my-auto">
           <div class="contenedortitulo">
             <h2 class="nombretitulo text-center">BEBÉS</h2>
-            <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
-            <H5 class="subtitulo text-center">0 a 1 año personalizado</H5>
+            <H4 class="subtitulo text-center">EL MEJOR REGALO PARA SU BEBÉ</H4>
+            <H5 class="subtitulo text-center">Para todos los bebés a partir de los 3 meses a los 3 años</H5>
           </div>
 
         </div>
@@ -154,9 +154,8 @@
     <div class="container">
       <div class="row d-flex justify-content-between">
         <div class="detlletexto col-lg-6 my-auto">
-          <p>Bebés de 1 año a 3 años 11 meses. </p>
-          <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje.<br> Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo. <br>
-            No es necesario que los padres sepan nadar. Contamos con una alberca pedagógicamente diseñada con diferentes plataformas de profundidad para su seguridad y desplazamiento. <br> Es importante que los padres transmitan el gusto por el agua y bienestar total.
+          <!--<p>Bebés de 1 año a 3 años 11 meses. </p>-->
+          <p> La natación realizada en edades tempranas contribuye de manera importante en el desarrollo general del niño. La actividad se realiza con la participación activa de uno de los padres o de un familiar cercano, en un ambiente de armonía que promueve la seguridad no sólo física sino también emocional de todos los alumnos. Seguimos una metodología en base a las etapas del desarrollo y nos apoyamos con los mejores materiales pedagógicos.
 
 
           </p>

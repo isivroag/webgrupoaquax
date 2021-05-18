@@ -137,8 +137,8 @@
                 <div class="col-md-9 my-auto">
                     <div class="contenedortitulo">
                         <h2 class="nombretitulo">JÓVENES Y ADULTOS</h2>
-                        <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
-                        <H5 class="subtitulo text-center">18 a 59 años</H5>
+                        <H4 class="subtitulo text-center">NATACIÓN POR SALUD Y DEPORTE</H4>
+                        <!--<H5 class="subtitulo text-center">18 a 59 años</H5>-->
                     </div>
 
                 </div>
@@ -155,9 +155,10 @@
         <div class="container">
             <div class="row d-flex justify-content-between">
                 <div class="detlletexto col-lg-6 my-auto">
-                    <p>De 15 a 59 años. </p>
-                    <p> El espacio y el método de enseñanza están diseñados para que el alumno transite cómoda y placenteramente, desde aquel que le tiene miedo al agua, hasta el que logra dominar los 4 estilos de natación. <br> La progresión del aprendizaje toma en cuenta los elementos psicomotores de la evolución humana. <br>
-                        Cada nivel cuenta con objetivos concretos de aprendizaje, centrados en el alumno para garantizar el éxito en cada sesión y conquistar el dominio y la interacción cómoda y eficiente con el agua.
+                    <!--p>De 15 a 59 años. </p>-->
+                    <p> La natación es uno de los deportes más completos que beneficia a quien lo practica en distintos aspectos, favorece su sistema inmunológico, cardiovascular, respiratorio, locomotor y nervioso, tonifica todo el cuerpo, mejora el estado de ánimo y el descanso.<BR><BR>
+Los  jóvenes y adultos pueden practicar la natación de manera recreativa o competitiva, como una rutina de salud o por rehabilitación.<BR><BR>
+Tenemos un horario y grupo para ti.
 
                     </p>
                 </div>

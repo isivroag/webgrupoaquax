@@ -137,8 +137,8 @@
         <div class="col-md-7 my-auto">
           <div class="contenedortitulo">
             <h2 class="nombretitulo">AQUAMATERNAL</h2>
-            <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
-            <H5 class="subtitulo text-center">0 a 3 años</H5>
+            <!--<H4 class="subtitulo text-center">GRUPO AQUAX</H4>-->
+            <!--<H5 class="subtitulo text-center">0 a 3 años</H5>-->
           </div>
 
         </div>
@@ -155,9 +155,9 @@
     <div class="container">
       <div class="row d-flex justify-content-between">
         <div class="detlletexto col-lg-6 my-auto">
-          <p>Bebés de 3 meses a 1 año. </p>
-          <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje. <br> Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo. <br><br>
-            No es necesario que los padres sepan nadar. Contamos con una alberca pedagógicamente diseñada con diferentes plataformas de profundidad para su seguridad y desplazamiento. Es importante que los padres transmitan el gusto por el agua y bienestar total.
+          <!--<p>Bebés de 3 meses a 1 año. </p>-->
+          <p> Los bebés aprenden a nadar en un contexto diseñado especialmente para que sean los padres los principales transmisores del aprendizaje. Ellos son quienes aprenden, a través de nuestro método, a confiar en sus propios recursos corporales para lograrlo.<br><br>
+No es necesario que los padres sepan nadar. Contamos con una alberca pedagógicamente diseñada con diferentes plataformas de profundidad para su seguridad y desplazamiento. <br><br> Es importante que los padres transmitan el gusto por el agua y bienestar total.
 
           </p>
         </div>

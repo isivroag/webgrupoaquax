@@ -136,8 +136,8 @@
                 <div class="col-md-7 my-auto">
                     <div class="contenedortitulo">
                         <h2 class="nombretitulo text-center">PREESCOLARES</h2>
-                        <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
-                        <H5 class="subtitulo text-center">4 a 7 años</H5>
+                        <H4 class="subtitulo text-center">MOVIMIENTO PARA APRENDER</H4>
+                        <H5 class="subtitulo text-center">Para niñas y niños de 3 años a 6 años</H5>
                     </div>
 
                 </div>
@@ -154,8 +154,8 @@
         <div class="container">
             <div class="row d-flex justify-content-between">
                 <div class="detlletexto col-lg-6 my-auto">
-                    <p>Niños de 3 años y medio a 6 años. </p>
-                    <p> La efectividad de nuestra enseñanza se da en la progresión ordenada y cuidadosa del aprendizaje. <br><br> Los alumnos aprenden jugando, imaginando, explorando y disfrutando de su relación con el Agua. <br><br>Los niveles de aprendizaje se van adaptando a las habilidades.
+                    <!--<p>Niños de 3 años y medio a 6 años. </p>-->
+                    <p> Una fase del crecimiento donde se logran importantes adquisiciones en el aprendizaje, en nuestras clases, ofrecemos un programa especialmente diseñado para que estos pequeños exploradores desarrollen sus habilidades de nado, independencia y seguridad acuática. <br> <br>Expresar sus ideas, emociones, esperar su turno, seguir las reglas y convivir con otros compañeritos en grupos pequeños, son algunas de las habilidades que podrán desarrollar, todo esto en un ambiente lúdico que favorece el aprendizaje.
                     </p>
                 </div>
                 <div class="col-lg-5">

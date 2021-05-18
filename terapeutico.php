@@ -137,7 +137,7 @@
                 <div class="col-md-7 my-auto">
                     <div class="contenedortitulo">
                         <h2 class="nombretitulo text-center">TERAPÉUTICA</h2>
-                        <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
+                        <H4 class="subtitulo text-center">REHABILITACIÓN</H4>
                     </div>
 
                 </div>
@@ -155,7 +155,14 @@
             <div class="row d-flex justify-content-between">
                 <div class="detlletexto col-lg-6 my-auto">
 
-                    <p> Programa en el cual una persona con una lesión o discapacidad física encuentre en el ambiente acuático el medio para que su calidad de vida mejore en todos los ámbitos. <br> <br> Clases con instructor individual y con nuestras instalaciones adecuadas para poder accesar a la alberca en silla de ruedas.
+                    <p> Las propiedades del agua, nos dan la oportunidad de beneficiar en la rehabilitación de personas con distintas condiciones de salud como pueden ser:<BR><BR>
+                        • Casos postoperatorios.<BR>
+                        • Rehabilitación de lesiones deportivas.<BR>
+                        • Trastornos ortopédicos.<BR>
+                        • Artritis.<BR>
+                        • Dolor de espalda.<BR>
+                        • Dolores crónicos.<BR>
+
                     </p>
                 </div>
                 <div class="col-lg-5">

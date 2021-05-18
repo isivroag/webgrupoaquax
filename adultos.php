@@ -137,8 +137,8 @@
                 <div class="col-md-8 my-auto">
                     <div class="contenedortitulo">
                         <h2 class="nombretitulo">ADULTOS MAYORES</h2>
-                        <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
-                        <H5 class="subtitulo text-center">60 años y más</H5>
+                        <H4 class="subtitulo text-center">PROGRAMA DISEÑADO PARA PERSONAS MAYORES DE 60 AÑOS</H4>
+                        <!--<H5 class="subtitulo text-center">60 años y más</H5>-->
                     </div>
 
                 </div>
@@ -155,8 +155,8 @@
         <div class="container">
             <div class="row d-flex justify-content-between">
                 <div class="detlletexto col-lg-6 my-auto">
-                    <p>De 60 años en adelante. 45 minutos de clase. </p>
-                    <p> El participante realizará ejercicios para vigorizar su cuerpo y mejorar su calidad de vida. <br> <br> Ejercicios para movilidad de articulaciones, tonificación muscular, reeducar postura y de integración social. Buscando desarrollar elementos que permitan adaptarse y disfrutar con seguridad el medio acuático, conocer y perfeccionar las técnicas de nado mediante un programa de acondicionamiento.
+                    <!--p>De 60 años en adelante. 45 minutos de clase. </p>-->
+                    <p> Para esta maravillosa etapa de la vida, la natación es una actividad ideal, principalmente debido a que presenta pocos riesgos de lesión y es de bajo impacto. <BR><BR> La resistencia del agua ofrece un estimulo especial y terapéutico para quien lo practica. En nuestro programa tendrá la opción de cuidar y fortalecer el cuerpo, la mente y el espíritu. <BR><BR> El medio acuático por sus características provee importantes beneficios a la salud de las personas.
                     </p>
                 </div>
                 <div class="col-lg-5">

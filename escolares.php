@@ -137,8 +137,8 @@
                 <div class="col-md-7 my-auto">
                     <div class="contenedortitulo">
                         <h2 class="nombretitulo text-center">ESCOLARES</h2>
-                        <H4 class="subtitulo text-center">GRUPO AQUAX</H4>
-                        <H5 class="subtitulo text-center">8 a 17 años</H5>
+                        <H4 class="subtitulo text-center">HABILIDADES Y TÉCNICAS DE NADO PARA PRINCIPIANTES, INTERMEDIOS Y AVANZADOS</H4>
+                        <H5 class="subtitulo text-center">A partir de 7 años en adelante</H5>
                     </div>
 
                 </div>
@@ -155,10 +155,8 @@
         <div class="container">
             <div class="row d-flex justify-content-between">
                 <div class="detlletexto col-lg-6 my-auto">
-                    <p>Niños de 7 a los 14 años. </p>
-                    <p> El espacio y el método de enseñanza están diseñados para que el alumno transite cómoda y placenteramente, desde aquel que le tiene miedo al agua, hasta el que logra dominar los 4 estilos de natación. <br> La progresión del aprendizaje toma en cuenta los elementos psicomotores de la evolución humana. <br>
-                        Cada nivel cuenta con objetivos concretos de aprendizaje, centrados en el alumno para garantizar el éxito en cada sesión y conquistar el dominio y la interacción cómoda y eficiente con el agua.
-
+                    <!--<p>Niños de 7 a los 14 años. </p>-->
+                    <p> En este programa, los niños aprenderán desde las habilidades básicas de nado como son el control de aire y la flotación hasta las técnicas de los estilos de nado, las salidas y vueltas, siguiendo el plan de los niveles de nuestra metodología de enseñanza, que los conducirá al aprendizaje de técnicas más elevadas. <br><br>Trabajamos en grupos, que son una manera excelente de contribuir al desarrollo de las habilidades sociales y emocionales que tanto necesitan los niños de ahora.
                     </p>
                 </div>
                 <div class="col-lg-5">
