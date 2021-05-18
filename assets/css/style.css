@@ -2004,3 +2004,23 @@ section {
     background: #fff;
     z-index: 1;
   }
+
+
+  .tituloitem {
+    font-size: 45px;
+    color: #fff !important;
+}
+
+.textonos {
+    background-color: rgb(50, 85, 144);
+    padding: 0px 0px;
+}
+.descripcion{
+    font-size: 18px;
+    font-style: normal;
+    color: #fff;
+
+}
+.item{
+    line-height :1.5;
+}
