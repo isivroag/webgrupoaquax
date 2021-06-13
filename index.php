@@ -64,7 +64,8 @@
       <div class="row justify-content-end">
         <div class="col-md-6 text-right">
           NUESTRAS MEDIDAS SANITARIAS
-          <a href="index.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
+          
+          <a href="covid.php" ><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
 
         </div>
        
@@ -98,7 +99,7 @@
               <li><a href="terapeutico.php">Terapéutica</a></li>
               <li><a href="escuelas.php">Escuelas</a></li>
               <li><a href="libre.php">Natación Libre</a></li>
-              <li><a href="gymx.php">GYMX</a></li>
+              <li><a href="acondicionamiento.php">Acondicionamiento Fisico</a></li>
             </ul>
           </li>
 
@@ -109,7 +110,7 @@
               </ul>
           </li>
 
-          <li><a href="#about">Nosotros</a></li>
+          <li><a href="nosotros.php">Nosotros</a></li>
           <li><a href="#team">Reglamento</a></li>
 
           <!--<li class="drop-down"><a href="">Drop Down</a>
@@ -239,7 +240,7 @@
           <br>
           <div class="col-lg-12 ">
 
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
+          <a href="https://www.youtube.com/embed/dd1CekiTKoI" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
 
           </div>
 

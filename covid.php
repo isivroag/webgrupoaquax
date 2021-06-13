@@ -57,18 +57,7 @@
 <body>
 
     <!-- ======= Top Bar ======= -->
-    <section id="topbar" class="d-none d-lg-block">
-        <div class="container aviso">
-            <div class="row justify-content-end">
-                <div class="col-md-6 text-right">
-                    NUESTRAS MEDIDAS SANITARIAS
-                    <a href="covid.php" ><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
-
-                </div>
-
-            </div>
-        </div>
-    </section>
+  
 
     <!-- ======= Header ======= -->
     <header id="header">
@@ -131,50 +120,23 @@
 
         </div>
     </header><!-- End Header -->
-    <section id="titulo" class="tituloplan">
-        <div class="container">
-            <div class="row d-flex justify-content-between ">
-                <div class="col-md-8 my-auto">
-                    <div class="contenedortitulo">
-                        <h2 class="nombretitulo">ADULTOS MAYORES</h2>
-                        <H4 class="subtitulo text-center">PROGRAMA DISEÑADO PARA PERSONAS MAYORES DE 60 AÑOS</H4>
-                        <!--<H5 class="subtitulo text-center">60 años y más</H5>-->
-                    </div>
-
-                </div>
-                <div class="col-md-3 ">
-                    <img class="align-top imagenplan" src="assets/img/45min5.png" alt="">
-                </div>
-            </div>
-        </div>
-
-    </section>
 
 
     <section>
         <div class="container">
-            <div class="row d-flex justify-content-between">
-                <div class="detlletexto col-lg-6 my-auto">
-                    <!--p>De 60 años en adelante. 45 minutos de clase. </p>-->
-                    <p> Para esta maravillosa etapa de la vida, la natación es una actividad ideal, principalmente debido a que presenta pocos riesgos de lesión y es de bajo impacto. <BR><BR> La resistencia del agua ofrece un estimulo especial y terapéutico para quien lo practica. En nuestro programa tendrá la opción de cuidar y fortalecer el cuerpo, la mente y el espíritu. <BR><BR> El medio acuático por sus características provee importantes beneficios a la salud de las personas.
-                    </p>
+            <div class="row d-flex ">
+                <div class="detlletexto col-lg-12">
+                <img class="" src="assets/img/covid/covid1.png" alt="">
+                  
                 </div>
-                <div class="col-lg-5">
-                    <img class="detalleplan" src="assets/img/adultos.png" alt="">
+                <div class="col-lg-12">
+                    <img class="" src="assets/img/covid/covid2.png" alt="">
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="plan">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <img src="assets/img/planadultos.png" alt="">
-                </div>
-            </div>
-        </div>
-    </section>
+
 
     <section class="clasedeprueba ">
 

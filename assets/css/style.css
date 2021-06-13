@@ -2023,4 +2023,35 @@ section {
 }
 .item{
     line-height :1.5;
+    font-weight: 500;
+}
+
+.noscert {
+    background-color:  #5F8EC6;
+    padding: 15px 0;
+    
+}
+
+.noscert span{
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.itemcert {
+    display: block !important;
+    height: 180px;
+    
+    padding: 5px;
+    margin: auto;
+    
+    
+    ;
+    
+    
+    
+    
+    
+    
 }

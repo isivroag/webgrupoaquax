@@ -52,6 +52,11 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
+<style>
+    .a .fa {
+        margin-right: 0.5rem;
+    }
+</style>
 
 <body>
 
@@ -61,7 +66,7 @@
             <div class="row justify-content-end">
                 <div class="col-md-6 text-right">
                     NUESTRAS MEDIDAS SANITARIAS
-                    <a href="index.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
+                    <a href="covid.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
 
                 </div>
 
@@ -106,7 +111,7 @@
                         </ul>
                     </li>
 
-                    <li><a href="#about">Nosotros</a></li>
+                    <li><a href="nosotros.php">Nosotros</a></li>
                     <li><a href="#team">Reglamento</a></li>
 
                     <!--<li class="drop-down"><a href="">Drop Down</a>
@@ -172,7 +177,7 @@
                     <br>
                     <div class="col-lg-12 ">
 
-                        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
+                        <a href="https://www.youtube.com/embed/dd1CekiTKoI" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
 
                     </div>
 
@@ -182,7 +187,9 @@
             </div>
         </section>
 
+        <section>
 
+        </section>
 
 
         <section id="" class="textonos">
@@ -190,69 +197,65 @@
                 <div class="row justify-content ">
                     <div class="col-sm-12 my-auto">
                         <div class="">
-                            <a href="" data-toggle="collapse" data-target="#historia" aria-expanded="false" aria-controls="historia">
-                                <h2 class="tituloitem">NUESTRA HISTORIA</h2>
-                            </a>
+                            <div class="card-header border-0 ">
+                                <a href="" data-toggle="collapse" data-target="#historia" aria-expanded="false" aria-controls="historia">
+                                    <h2 class="tituloitem"><i class="fa fa-plus m-2 text-light"></i> NUESTRA HISTORIA</h2>
+                                </a>
+                            </div>
                             <div id="historia" class="collapse text-justify descripcion" aria-expanded="true">
                                 <div class="row">
+                                    <div class="col-sm-12 text-center">
+                                        <span class="item">“Las realidades son tangibles cuando los sueños se encauzan a través de la visión de un emprendedor y personas con la pasión, el conocimiento y la capacidad para hacerlas surgir.”<br><br></span>
+                                    </div>
                                     <div class="col-sm-8 ">
                                         <span class="item">
-                                            Las realidades son tangibles cuando los sueños se encauzan a través de la visión de un emprendedor y personas con la pasión, el conocimiento y la capacidad para hacerlas surgir.
-                                            Este es el caso de AQUALANDIA Escuela de Natación y AQUAX Escuela de Natación…espacios llenos de trabajo y profesionalismo, espacios enfocados a la integración y desarrollo de sociedad en una vida plena y saludable.<br><br>
-                                            Pero, todo hecho tiene un comienzo y en éste, fue en junio de 1993, cuando Tomás Ruiz Noriega, un empresario y triatleta, encuentra a Mario Vázquez Honorato y a Julio Cervantes, quienes junto con Fernando Ruiz Noriega…concretaron una visión en conjunto y abrieron las puertas de lo que a un año de distancia se posicionaría como la mejor Escuela de Natación de la ciudad de Xalapa y sus alrededores.<br><br>
-                                            AQUALANDIA ofrecía entonces un modesto gimnasio y donde además ofertaba clases de danza, yoga, acondicionamiento físico, algo que en la década de los noventa era una idea revolucionaria, llevaron el concepto de salud integral al alcance de toda la población xalapeña.<br><br>
-                                            AQUALANDIA ha sido semillero de grandes talentos deportivos tanto en la natación como en el triatlón…siempre atentos de los avances en las disciplinas, fueron los primeros en presentar el sistema de salud conocido como SPINNING.<br>
-                                            
+
+                                            AQUALANDIA Escuela de Natación y AQUAX Escuela de Natación, espacios llenos de trabajo y profesionalismo, espacios enfocados a la integración y desarrollo de sociedad en una vida plena y saludable.<br><br>
+                                            Fue en junio de 1993, cuando Tomás Ruiz Noriega, un empresario y triatleta, encuentra a Mario Vázquez Honorato y a Julio Cervantes, quienes junto con Fernando Ruiz Noriega; concretaron una visión en conjunto y abrieron las puertas de lo que a un año de distancia se posicionaría como la mejor Escuela de Natación de la ciudad de Xalapa. <br><br>
+                                            AQUALANDIA ha sido semillero de grandes talentos deportivos tanto en la natación como en el triatlón, siempre atentos de los avances en las disciplinas, fueron los primeros en presentar el sistema de salud conocido como spinning<br><br>
+                                            Debido al éxito deportivo y habiéndose colocado como la mejor opción de educación acuática, la visión de Tomas Ruiz, los llevó a crecer y desarrollar un centro deportivo con miras al alto rendimiento y en 1999 surgió AQUAX Escuela de Natación. <br><br>
+                                            Hoy en día AQUAX, es un complejo deportivo que ofrece diversas disciplinas con instructores calificados y capacitados para atender las necesidades de los usuarios…cuenta con alberca para bebés y rehabilitación, actividades de alto rendimiento en natación y triatlón.
+
 
                                         </span>
                                     </div>
                                     <div class="col-sm-4 m-auto">
                                         <img class="card-img-top img-responsive py-1" src="assets/img/about.jpg" alt="" style="border-radius: 50px;">
-                                       
-                                        
-                                    </div>
-                                    <div class="col-sm-4 m-auto">
-                                        <img class="card-img-top img-responsive p-4 " src="assets/img/about.jpg" alt="" style="border-radius: 50px;">
-                                       
-                                        <img class="card-img-top img-responsive p-4" src="assets/img/about.jpg" alt="" style="border-radius: 50px;">
+
+
                                     </div>
 
-                                    <div class="col-sm-8 ">
-                                        <span class="item">
-                                            Más adelante en el tiempo, debido al éxito deportivo y habiéndose colocado como la mejor opción de educación acuática, la visión de Tomas Ruiz, los llevó a crecer y desarrollar un centro deportivo con miras al alto rendimiento sin olvidar a la población general y en 1999 crearon el concepto de AQUAX Escuela de Natación, hoy en día AQUAX, es un complejo deportivo que ofrece disciplinas como Yoga, TRX, TABATA entre otras cuenta con un gimnasio completo con instructores calificados y capacitados para atender las necesidades de los usuarios…cuenta con alberca para bebés y rehabilitación, actividades de alto rendimiento en natación y triatlón…da cabida a los mejores equipos de estas disciplinas para que efectúen sus entrenamientos en sus instalaciones, además del propio.<br><br>
-                                            AQUALANDIA ofrecía entonces un modesto gimnasio y donde además ofertaba clases de danza, yoga, acondicionamiento físico, algo que en la década de los noventa era una idea revolucionaria, llevaron el concepto de salud integral al alcance de toda la población xalapeña.<br><br>
-                                            AQUALANDIA ha sido semillero de grandes talentos deportivos tanto en la natación como en el triatlón…siempre atentos de los avances en las disciplinas, fueron los primeros en presentar el sistema de salud conocido como SPINNING.<br>
-                                            Más adelante en el tiempo, debido al éxito deportivo y habiéndose colocado como la mejor opción de educación acuática, la visión de Tomas Ruiz, los llevó a crecer y desarrollar un centro deportivo con miras al alto rendimiento sin olvidar a la población general y en 1999 crearon el concepto de AQUAX Escuela de Natación, hoy en día AQUAX, es un complejo deportivo que ofrece disciplinas como Yoga, TRX, TABATA entre otras cuenta con un gimnasio completo con instructores calificados y capacitados para atender las necesidades de los usuarios…cuenta con alberca para bebés y rehabilitación, actividades de alto rendimiento en natación y triatlón…da cabida a los mejores equipos de estas disciplinas para que efectúen sus entrenamientos en sus instalaciones, además del propio.
 
-                                        </span>
-                                    </div>
-                                    
 
                                 </div>
 
                             </div>
-                            <a href="" data-toggle="collapse" data-target="#mision" aria-expanded="false" aria-controls="mision">
-                                <h2 class="tituloitem">MISIÓN</h2>
-                            </a>
+                            <div class="card-header border-0">
+                                <a href="" data-toggle="collapse" data-target="#mision" aria-expanded="false" aria-controls="mision">
+                                    <h2 class="tituloitem"><i class="fa fa-plus m-2 text-light"></i> MISIÓN</h2>
+                                </a>
+                            </div>
                             <div id="mision" class="collapse text-justify descripcion" aria-expanded="true">
                                 <div class="row">
                                     <div class="col-sm-4">
                                         <img class="card-img-top img-responsive" src="assets/img/about.jpg" alt="" style="border-radius: 50px;">
                                     </div>
                                     <div class="col-sm-8 m-auto ">
-                                        <span>
+                                        <span class="item">
                                             A través de una infraestructura y servicio de alta calidad con personal capacitado y profesional, ser un importante apoyo para lograr una mejor sociedad satisfaciendo las necesidades en el aprendizaje y práctica de la natación, actividades holísticas y acondicionamiento físico, e impulsar y desarrollar hábitos deportivos y de competencia para que niños, jóvenes y adultos mejoren su calidad de vida.
                                         </span>
                                     </div>
                                 </div>
                             </div>
-                            <a href="" data-toggle="collapse" data-target="#vision" aria-expanded="false" aria-controls="vision">
-                                <h2 class="tituloitem">VISIÓN</h2>
-                            </a>
+                            <div class="card-header border-0">
+                                <a href="" data-toggle="collapse" data-target="#vision" aria-expanded="false" aria-controls="vision">
+                                    <h2 class="tituloitem"><i class="fa fa-plus m-2 text-light"></i> VISIÓN</h2>
+                                </a>
+                            </div>
                             <div id="vision" class="collapse text-justify descripcion" aria-expanded="true">
                                 <div class="row">
                                     <div class="col-sm-8 m-auto">
-                                        <span>
+                                        <span class="item">
                                             Continuar siendo la principal institución en la enseñanza y práctica de la natación en el Estado de Veracruz y continuar creciendo en el país y el mundo de la competencia. Que el personal que labora en esta empresa se sienta orgulloso de ello.
 
                                         </span>
@@ -263,17 +266,18 @@
 
                                 </div>
                             </div>
-                            <a href="" data-toggle="collapse" data-target="#valores" aria-expanded="false" aria-controls="valores">
-                                <h2 class="tituloitem">VALORES</h2>
-                            </a>
-
+                            <div class="card-header border-0">
+                                <a href="" data-toggle="collapse" data-target="#valores" aria-expanded="false" aria-controls="valores">
+                                    <h2 class="tituloitem"><i class="fa fa-plus m-2 text-light"></i> VALORES</h2>
+                                </a>
+                            </div>
                             <div id="valores" class="collapse text-justify descripcion" aria-expanded="true">
                                 <div class="row">
                                     <div class="col-sm-4 m-auto">
                                         <img class="card-img-top img-responsive" src="assets/img/about.jpg" alt="" style="border-radius: 50px;">
                                     </div>
                                     <div class="col-sm-8 m-auto">
-                                        <span>
+                                        <span class="item">
                                             Los siguientes valores son el conjunto de principios que regulan la gestión de la empresa.
                                             <ul>
                                                 <li>Servicio: actitud permanente de colaboración hacia los demás.</li>
@@ -299,15 +303,60 @@
 
         </section>
 
-        <section class="certificaciones">
+        <section class="noscert">
             <div class="container">
-                <div class="mx-auto d-flex justify-content-center">
-                    <img src="assets/img/cert1.png" alt="">
-                    <img src="assets/img/cert2.png" alt="">
-                    <img src="assets/img/cert3.png" alt="">
-                    <img src="assets/img/cert4.png" alt="">
-                    <img src="assets/img/cert5.png" alt="">
+
+                <div class="row">
+                    <div class="col-sm-12 text-center subtitulo mb-1 " style="font-size: 45px; letter-spacing:6px">NUESTRAS</div>
+                    <div class="col-sm-12 text-center subtitulo mb-1" style="font-size: 45px; letter-spacing:6px">CERTIFICACIONES</div>
                 </div>
+                <div class="row justify-content-center">
+                    <div class="col-xl-4 d-block text-center">
+                        
+                            <img src="assets/img/cert1.png"  alt="" class="itemcert">
+                            <span class="text-center">U.S. Swim School Association<br>(ASN)</span>
+                        
+                    </div>
+                    <div class="col-xl-4 text-center">
+                        <img src="assets/img/conade.png" alt=""  class="itemcert">
+                        <span class="text-center">Comisión Nacional de Cultura Física y Deporte<br>(CONADE)</span>
+                    </div>
+                    <div class="col-xl-4 text-center">
+                        <img src="assets/img/ened.png" alt=""  class="itemcert">
+                        <span class="text-center">Escuela Nacional de Entrenadores Deportivos<br>(ENED)</span>
+                    </div>
+                    <div class="col-xl-4 text-center">
+                        <img src="assets/img/nssa.png" alt=""  class="itemcert">
+                        <span class="text-center">National Swim School Association<br>(NSSA)</span>
+                    </div>
+                    <div class="col-xl-4 text-center">
+                        <img src="assets/img/rfen.png" alt=""  class="itemcert">
+                        <span class="text-center">Real Federación Española de Natación<br>(RFEN)</span>
+                    </div>
+                    <div class="col-xl-4 text-center">
+                        <img src="assets/img/cert2.png" alt=""  class="itemcert">
+                        <span class="text-center">American Swimming Coaches Association<br>(ASCA)</span>
+                    </div>
+                    
+                    <div class="col-xl-4 text-center">
+                        <img src="assets/img/cert5.png" alt=""  class="itemcert">
+                        <span class="text-center">United States Swim School<br>(ASSN)</span>
+                    </div>
+                    <div class="col-xl-4 text-center">
+                        <img src="assets/img/cert4.png" alt=""  class="itemcert">
+                        <span class="text-center">Nadar sin Fronteras<br>(NSF)</span>
+                    </div>
+                    <div class="col-xl-4 text-center">
+                        <img src="assets/img/cert3.png" alt=""  class="itemcert">
+                        <span class="text-center">Asociación Española de Técnicos de Natación<br>(AETN)</span>
+                    </div>
+                    <div class="col-xl-4 text-center">
+                        <img src="assets/img/fina.png" alt=""  class="itemcert">
+                        <span class="text-center">Federación Internacional de Natación<br>(FINA)</span>
+                    </div>
+                    
+                </div>
+
 
             </div>
         </section>
@@ -410,3 +459,19 @@
 </body>
 
 </html>
+
+<script>
+    $(document).ready(function() {
+        // Add minus icon for collapse element which is open by default
+        $(".collapse.show").each(function() {
+            $(this).prev(".card-header").find(".fa").addClass("fa-minus").removeClass("fa-plus");
+        });
+
+        // Toggle plus minus icon on show hide of collapse element
+        $(".collapse").on('show.bs.collapse', function() {
+            $(this).prev(".card-header").find(".fa").removeClass("fa-plus").addClass("fa-minus");
+        }).on('hide.bs.collapse', function() {
+            $(this).prev(".card-header").find(".fa").removeClass("fa-minus").addClass("fa-plus");
+        });
+    });
+</script>

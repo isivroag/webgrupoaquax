@@ -62,7 +62,7 @@
             <div class="row justify-content-end">
                 <div class="col-md-6 text-right">
                     NUESTRAS MEDIDAS SANITARIAS
-                    <a href="index.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
+                    <a href="covid.php" ><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
 
                 </div>
 
@@ -105,7 +105,7 @@
                         </ul>
                     </li>
 
-                    <li><a href="#about">Nosotros</a></li>
+                    <li><a href="nosotros.php">Nosotros</a></li>
                     <li><a href="#team">Reglamento</a></li>
 
                     <!--<li class="drop-down"><a href="">Drop Down</a>
