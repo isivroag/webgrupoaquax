@@ -124,7 +124,7 @@
               <li><a href="#">Drop Down 5</a></li>
             </ul>-->
                         </li>
-                        <li><a href="#contact">Contacto</a></li>
+                        <li><a href="contacto.php">Contacto</a></li>
                 </ul>
             </nav><!-- .nav-menu -->
 

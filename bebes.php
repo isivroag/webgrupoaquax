@@ -61,10 +61,10 @@
       <div class="row justify-content-end">
         <div class="col-md-6 text-right">
           NUESTRAS MEDIDAS SANITARIAS
-          <a href="covid.php" ><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
+          <a href="covid.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
 
         </div>
-       
+
       </div>
     </div>
   </section>
@@ -97,7 +97,7 @@
             </ul>
           </li>
 
-          <<li class="drop-down"><a href="">Sucursales</a>
+          <li class="drop-down"><a href="">Sucursales</a>
             <ul>
               <li><a href="aqualandia.php">Aqualandia</a></li>
               <li><a href="aquax.php">Aquax</a></li>
@@ -124,7 +124,7 @@
               <li><a href="#">Drop Down 5</a></li>
             </ul>-->
             </li>
-            <li><a href="#contact">Contacto</a></li>
+            <li><a href="contacto.php">Contacto</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
@@ -212,7 +212,7 @@
 
           </div>
           <div class="col-lg-3 ">
-           
+
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
