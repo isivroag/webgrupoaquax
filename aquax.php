@@ -61,7 +61,7 @@
       <div class="row justify-content-end">
         <div class="col-md-6 text-right">
           NUESTRAS MEDIDAS SANITARIAS
-          <a href="covid.php" ><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
+          <a href="covid.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
 
         </div>
 
@@ -167,36 +167,48 @@
     </section>
 
     <section id="gallery" class="gallery" style="background-color:#325590;">
-      <div class="container" >
+      <div class="container">
 
         <div class="text-center pb-4">
           <h4 class="espaciado nombretitulo">GALERIA</h4>
           <p class="text-light" style="font-size: 22px;">Conoce Nuestras Instalaciones</p>
         </div>
 
-        <div class="owl-carousel gallery-carousel"  >
-          <a href="assets/img/gallery/gallery-1.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-1.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-2.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-2.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-3.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-3.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-4.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-4.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-5.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-5.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-6.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-6.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-7.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-7.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-8.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-8.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-9.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-9.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-10.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-10.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-11.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-11.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-12.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-12.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-13.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-13.jpg" alt=""></a>
-          <a href="assets/img/gallery/gallery-14.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-14.jpg" alt=""></a>
-        </div>
+        <div class="owl-carousel gallery-carousel">
+          <a href="assets/img/gallery/aquax01.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax01.png" alt=""></a>
+          <a href="assets/img/gallery/aquax02.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax02.png" alt=""></a>
+          <a href="assets/img/gallery/aquax03.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax03.png" alt=""></a>
+          <a href="assets/img/gallery/aquax04.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax04.png" alt=""></a>
+          <a href="assets/img/gallery/aquax05.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax05.png" alt=""></a>
+          <a href="assets/img/gallery/aquax06.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax06.png" alt=""></a>
+          <a href="assets/img/gallery/aquax07.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax07.png" alt=""></a>
+          <a href="assets/img/gallery/aquax08.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax08.png" alt=""></a>
+          <a href="assets/img/gallery/aquax09.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax09.png" alt=""></a>
+          <a href="assets/img/gallery/aquax10.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax10.png" alt=""></a>
+          <a href="assets/img/gallery/aquax11.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax11.png" alt=""></a>
+          <a href="assets/img/gallery/aquax12.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax12.png" alt=""></a>
+          <a href="assets/img/gallery/aquax13.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax13.png" alt=""></a>
+          <a href="assets/img/gallery/aquax14.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax14.png" alt=""></a>
+          <a href="assets/img/gallery/aquax15.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax15.png" alt=""></a>
+          <a href="assets/img/gallery/aquax16.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax16.png" alt=""></a>
+          <a href="assets/img/gallery/aquax17.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax17.png" alt=""></a>
+          <a href="assets/img/gallery/aquax18.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax18.png" alt=""></a>
+          <a href="assets/img/gallery/aquax19.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax19.png" alt=""></a>
+          <a href="assets/img/gallery/aquax20.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax20.png" alt=""></a>
+          <a href="assets/img/gallery/aquax21.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax21.png" alt=""></a>
+          <a href="assets/img/gallery/aquax22.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax22.png" alt=""></a>
+          <a href="assets/img/gallery/aquax23.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax23.png" alt=""></a>
+          <a href="assets/img/gallery/aquax24.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aquax24.png" alt=""></a>
 
-      </div>
+
+
+
+        </div>
     </section><!-- End Gallery Section -->
 
 
-  
-    
+
+
     <section class="certificaciones">
       <div class="container">
         <div class="mx-auto d-flex justify-content-center">
@@ -278,41 +290,50 @@
 
       </div>
     </section>
-    <section class="redes">
+
+    <section class="noscert2">
       <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-sm-12 text-center">
-            <h2>SIGUENOS</h2>
+
+        <div class="row">
+          <div class="col-sm-12 text-center mb-1">
+            <h2 style="font-size: 45px; letter-spacing:6px">SIGUENOS</h2>
           </div>
-          <div class="col-sm-12 text-center">
-            <h4>EN NUESTRAS REDES SOCIALES</h4>
+          <div class="col-sm-12 text-center mb-5">
+            <h2 style="font-size: 25px; letter-spacing:6px">EN NUESTRAS REDES SOCIALES</h2>
           </div>
         </div>
         <div class="row justify-content-around">
-          <div class="col-sm-6 py-4">
-            <button class="botonred espaciado">Nuestro Facebook <i class="fas fa-arrow-right"></i></button>
-          </div>
-          <div class="col-sm-6 text-center">
-            <div id="fb-root"></div>
-            <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v10.0" nonce="PSrLadEk"></script>
-            
-            <div class="fb-page" data-href="https://www.facebook.com/aquax.escueladenatacion" data-width="400" data-height="250" data-hide-cover="false" data-show-facepile="false"></div>
 
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icofb.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Facebook </button>
           </div>
+
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icoins.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Instagram </button>
+          </div>
+
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icoyou.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Youtube </button>
+          </div>
+
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icowha.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Whatsapp </button>
+          </div>
+
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icotel.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Telegram </button>
+          </div>
+
 
         </div>
 
-        <div class="row justify-content-around">
-          <div class="col-sm-6 py-4">
-            <button class="botonred espaciado">Nuestro Instagram <i class="fas fa-arrow-right"></i></button>
-          </div>
-          <div class="col-sm-6">
 
-          </div>
-
-        </div>
       </div>
-
     </section>
 
     <section class="mapa">

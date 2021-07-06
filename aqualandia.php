@@ -61,7 +61,7 @@
             <div class="row justify-content-end">
                 <div class="col-md-6 text-right">
                     NUESTRAS MEDIDAS SANITARIAS
-                    <a href="covid.php" ><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
+                    <a href="covid.php"><img src="assets/img/covid19.png" alt="" class="img-fluid covid" style="max-width:100px;border-radius: 60px;"></a>
 
                 </div>
 
@@ -201,6 +201,30 @@
         </div>
 
       </div>-->
+
+        <section id="gallery" class="gallery" style="background-color:#325590;">
+            <div class="container">
+
+                <div class="text-center pb-4">
+                    <h4 class="espaciado nombretitulo">GALERIA</h4>
+                    <p class="text-light" style="font-size: 22px;">Conoce Nuestras Instalaciones</p>
+                </div>
+
+                <div class="owl-carousel gallery-carousel">
+                    <a href="assets/img/gallery/aqualandia01.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aqualandia01.png" alt=""></a>
+                    <a href="assets/img/gallery/aqualandia02.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aqualandia02.png" alt=""></a>
+                    <a href="assets/img/gallery/aqualandia03.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aqualandia03.png" alt=""></a>
+                    <a href="assets/img/gallery/aqualandia04.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aqualandia04.png" alt=""></a>
+                    <a href="assets/img/gallery/aqualandia05.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aqualandia05.png" alt=""></a>
+                    <a href="assets/img/gallery/aqualandia06.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aqualandia06.png" alt=""></a>
+                    <a href="assets/img/gallery/aqualandia07.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aqualandia07.png" alt=""></a>
+                    <a href="assets/img/gallery/aqualandia08.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aqualandia08.png" alt=""></a>
+                    <a href="assets/img/gallery/aqualandia09.png" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/aqualandia09.png" alt=""></a>
+
+                </div>
+
+            </div>
+        </section><!-- End Gallery Section -->
         </section><!-- End About Us Section -->
         <section class="certificaciones">
             <div class="container">
@@ -398,9 +422,51 @@
 
                 </div>
             </section>
-            <section>
-                
-            </section>
+         
+            <section class="noscert2">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-sm-12 text-center mb-1">
+            <h2 style="font-size: 45px; letter-spacing:6px">SIGUENOS</h2>
+          </div>
+          <div class="col-sm-12 text-center mb-5">
+            <h2 style="font-size: 25px; letter-spacing:6px">EN NUESTRAS REDES SOCIALES</h2>
+          </div>
+        </div>
+        <div class="row justify-content-around">
+
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icofb.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Facebook </button>
+          </div>
+
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icoins.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Instagram </button>
+          </div>
+
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icoyou.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Youtube </button>
+          </div>
+
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icowha.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Whatsapp </button>
+          </div>
+
+          <div class="col-xl-2 text-center">
+            <img src="assets/img/redes/icotel.png" alt="" class="itemred">
+            <button id="tele" class="botonesred " data-toggle="modal" data-target="#mtelegram">Telegram </button>
+          </div>
+
+
+        </div>
+
+
+      </div>
+    </section>
 
             <section class="mapa">
                 <div class="container">

@@ -147,7 +147,7 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background-image: url('assets/img/slide/slide-4.jpg');">
+          <div class="carousel-item active" style="background-image: url('assets/img/slide/portada1.png');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <!--<h2 class="animate__animated animate__fadeInDown">Bienvenido <span>Grupo AQUAX</span></h2>-->
@@ -158,7 +158,7 @@
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background-image: url('assets/img/slide/slide-5.jpg');">
+          <div class="carousel-item" style="background-image: url('assets/img/slide/portada2.png');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown"></h2>
@@ -169,7 +169,7 @@
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url('assets/img/slide/slide-10.jpg');">
+          <div class="carousel-item" style="background-image: url('assets/img/slide/portada3.png');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown"></h2>
@@ -180,7 +180,7 @@
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url('assets/img/slide/slide-7.jpg');">
+          <div class="carousel-item" style="background-image: url('assets/img/slide/portada4.png');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown"></h2>
@@ -191,7 +191,44 @@
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url('assets/img/slide/slide-8.jpg');">
+          <div class="carousel-item" style="background-image: url('assets/img/slide/portada5.png');">
+            <div class="carousel-container">
+              <div class="carousel-content container">
+                <h2 class="animate__animated animate__fadeInDown"></h2>
+                <p class="animate__animated animate__fadeInUp"></p>
+                <!--<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>-->
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url('assets/img/slide/portada6.png');">
+            <div class="carousel-container">
+              <div class="carousel-content container">
+                <h2 class="animate__animated animate__fadeInDown"></h2>
+                <p class="animate__animated animate__fadeInUp"></p>
+                <!--<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>-->
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" style="background-image: url('assets/img/slide/portada7.png');">
+            <div class="carousel-container">
+              <div class="carousel-content container">
+                <h2 class="animate__animated animate__fadeInDown"></h2>
+                <p class="animate__animated animate__fadeInUp"></p>
+                <!--<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>-->
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" style="background-image: url('assets/img/slide/portada8.png');">
+            <div class="carousel-container">
+              <div class="carousel-content container">
+                <h2 class="animate__animated animate__fadeInDown"></h2>
+                <p class="animate__animated animate__fadeInUp"></p>
+                <!--<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>-->
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" style="background-image: url('assets/img/slide/portada9.png');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown"></h2>
