@@ -137,6 +137,7 @@
         <div class="col-md-7 my-auto">
           <div class="contenedortitulo">
             <h2 class="nombretitulo">AQUAMATERNAL</h2>
+            <H4 class="subtitulo text-center">ACTIVIDAD CON LOS PADRES, EN ARMONÍA, SEGURIDAD FÍSICA Y EMOCIONAL</H4>
             <!--<H4 class="subtitulo text-center">GRUPO AQUAX</H4>-->
             <!--<H5 class="subtitulo text-center">0 a 3 años</H5>-->
           </div>

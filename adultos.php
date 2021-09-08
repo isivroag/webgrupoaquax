@@ -137,7 +137,8 @@
                 <div class="col-md-8 my-auto">
                     <div class="contenedortitulo">
                         <h2 class="nombretitulo">ADULTOS MAYORES</h2>
-                        <H4 class="subtitulo text-center">PROGRAMA DISEÑADO PARA PERSONAS MAYORES DE 60 AÑOS</H4>
+                        <H4 class="subtitulo text-center">CUIDAR EL CUERPO, LA MENTE Y EL ESPÍRITU.</H4>
+                        <H5 class="subtitulo text-center">PROGRAMA DISEÑADO PARA PERSONAS MAYORES DE 60 AÑOS</H5>
                         <!--<H5 class="subtitulo text-center">60 años y más</H5>-->
                     </div>
 

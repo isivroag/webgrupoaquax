@@ -137,7 +137,7 @@
                 <div class="col-md-7 my-auto">
                     <div class="contenedortitulo">
                         <h2 class="nombretitulo text-center">TERAPÉUTICA</h2>
-                        <H4 class="subtitulo text-center">REHABILITACIÓN</H4>
+                        <H4 class="subtitulo text-center">BENEFICIAR A PERSONAS CON DISTINTAS CONDICIONES DE SALUD</H4>
                     </div>
 
                 </div>
